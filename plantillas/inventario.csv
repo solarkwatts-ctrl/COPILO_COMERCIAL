@@ -1,0 +1,3 @@
+﻿sku,producto,categoria,stock,precio,costo,sucursal
+P001,Producto A,Linea 1,0,150000,90000,Sucursal Principal
+P002,Producto B,Linea 1,3,220000,140000,Sucursal Principal

@@ -1,0 +1,3 @@
+﻿nombre,usuario,correo,rol,sucursal,zona,activo,password
+Juan Perez,jperez,juan@empresa.com,Comercial,Sucursal Principal,Norte,SI,1234
+Maria Lopez,mlopez,maria@empresa.com,Gerencia Comercial,Sucursal Principal,Centro,SI,1234

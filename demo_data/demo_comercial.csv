@@ -1,0 +1,661 @@
+﻿hoja,tipo_dimension,dimension,anio,valor,metrica,comercial_demo,sucursal_demo
+linea 24 25 liyi,linea,1000 - LAMINA INOXIDABLE,2024,161429.42999999996,Suma de Peso en KGI  Etiquetas de columna,Comercial Demo,Sucursal Principal
+linea 24 25 liyi,linea,1000 - LAMINA INOXIDABLE,2025,198762.15000000023,Suma de Peso en KGI  Etiquetas de columna,Comercial Demo,Sucursal Principal
+linea 24 25 liyi,linea,1100 - ROLLO INOXIDABLE,2024,37867.57999999999,Suma de Peso en KGI  Etiquetas de columna,Comercial Demo,Sucursal Principal
+linea 24 25 liyi,linea,1100 - ROLLO INOXIDABLE,2025,54966.54999999999,Suma de Peso en KGI  Etiquetas de columna,Comercial Demo,Sucursal Principal
+linea 24 25 liyi,linea,1200 - LAMINA PERFORADA,2024,1200.5800000000004,Suma de Peso en KGI  Etiquetas de columna,Comercial Demo,Sucursal Principal
+linea 24 25 liyi,linea,1200 - LAMINA PERFORADA,2025,3537.980000000001,Suma de Peso en KGI  Etiquetas de columna,Comercial Demo,Sucursal Principal
+linea 24 25 liyi,linea,1300 - LAM INOX ALFAJOR,2024,999.1800000000001,Suma de Peso en KGI  Etiquetas de columna,Comercial Demo,Sucursal Principal
+linea 24 25 liyi,linea,1300 - LAM INOX ALFAJOR,2025,532.35,Suma de Peso en KGI  Etiquetas de columna,Comercial Demo,Sucursal Principal
+linea 24 25 liyi,linea,2000 - TUBERIA INOXIDABLE,2024,115321.55999999988,Suma de Peso en KGI  Etiquetas de columna,Comercial Demo,Sucursal Principal
+linea 24 25 liyi,linea,2000 - TUBERIA INOXIDABLE,2025,150088.4800000001,Suma de Peso en KGI  Etiquetas de columna,Comercial Demo,Sucursal Principal
+linea 24 25 liyi,linea,3000 - PERFILERIA INOXIDABLE,2024,54746.13,Suma de Peso en KGI  Etiquetas de columna,Comercial Demo,Sucursal Principal
+linea 24 25 liyi,linea,3000 - PERFILERIA INOXIDABLE,2025,49159.99,Suma de Peso en KGI  Etiquetas de columna,Comercial Demo,Sucursal Principal
+linea 24 25 liyi,linea,4000 - ALAMBRE INOXIDABLE,2024,537.0,Suma de Peso en KGI  Etiquetas de columna,Comercial Demo,Sucursal Principal
+linea 24 25 liyi,linea,4000 - ALAMBRE INOXIDABLE,2025,816.0,Suma de Peso en KGI  Etiquetas de columna,Comercial Demo,Sucursal Principal
+linea 24 25 liyi,linea,4100 - TELA MESH,2024,828.02,Suma de Peso en KGI  Etiquetas de columna,Comercial Demo,Sucursal Principal
+linea 24 25 liyi,linea,4100 - TELA MESH,2025,702.2700000000001,Suma de Peso en KGI  Etiquetas de columna,Comercial Demo,Sucursal Principal
+linea 24 25 liyi,linea,5000 - CENTRO DE SERVICIOS,2024,50168.16000000003,Suma de Peso en KGI  Etiquetas de columna,Comercial Demo,Sucursal Principal
+linea 24 25 liyi,linea,5000 - CENTRO DE SERVICIOS,2025,59604.91999999994,Suma de Peso en KGI  Etiquetas de columna,Comercial Demo,Sucursal Principal
+linea 24 25 liyi,linea,9000 - ACCESORIOS,2024,511.59999999999997,Suma de Peso en KGI  Etiquetas de columna,Comercial Demo,Sucursal Principal
+linea 24 25 liyi,linea,9000 - ACCESORIOS,2025,536.4299999999998,Suma de Peso en KGI  Etiquetas de columna,Comercial Demo,Sucursal Principal
+sublinea 24 25 liyi,sublinea,1001 - LAM INOX T304 N.1,2024,8658.520000000002,Suma de Peso en KGI  Etiquetas de columna,Comercial Demo,Sucursal Principal
+sublinea 24 25 liyi,sublinea,1001 - LAM INOX T304 N.1,2025,5529.9400000000005,Suma de Peso en KGI  Etiquetas de columna,Comercial Demo,Sucursal Principal
+sublinea 24 25 liyi,sublinea,1002 - LAM INOX T304 2B,2024,44747.669999999984,Suma de Peso en KGI  Etiquetas de columna,Comercial Demo,Sucursal Principal
+sublinea 24 25 liyi,sublinea,1002 - LAM INOX T304 2B,2025,45492.01999999996,Suma de Peso en KGI  Etiquetas de columna,Comercial Demo,Sucursal Principal
+sublinea 24 25 liyi,sublinea,1003 - LAM INOX T304 N.4,2024,28919.090000000004,Suma de Peso en KGI  Etiquetas de columna,Comercial Demo,Sucursal Principal
+sublinea 24 25 liyi,sublinea,1003 - LAM INOX T304 N.4,2025,30352.210000000006,Suma de Peso en KGI  Etiquetas de columna,Comercial Demo,Sucursal Principal
+sublinea 24 25 liyi,sublinea,1006 - LAM INOX T430 2B,2024,2965.6500000000005,Suma de Peso en KGI  Etiquetas de columna,Comercial Demo,Sucursal Principal
+sublinea 24 25 liyi,sublinea,1006 - LAM INOX T430 2B,2025,2128.16,Suma de Peso en KGI  Etiquetas de columna,Comercial Demo,Sucursal Principal
+sublinea 24 25 liyi,sublinea,1007 - LAM INOX T430 2B / PE,2024,2414.2400000000002,Suma de Peso en KGI  Etiquetas de columna,Comercial Demo,Sucursal Principal
+sublinea 24 25 liyi,sublinea,1007 - LAM INOX T430 2B / PE,2025,4633.96,Suma de Peso en KGI  Etiquetas de columna,Comercial Demo,Sucursal Principal
+sublinea 24 25 liyi,sublinea,1008 - LAM INOX T430 BA,2024,3055.23,Suma de Peso en KGI  Etiquetas de columna,Comercial Demo,Sucursal Principal
+sublinea 24 25 liyi,sublinea,1008 - LAM INOX T430 BA,2025,750.58,Suma de Peso en KGI  Etiquetas de columna,Comercial Demo,Sucursal Principal
+sublinea 24 25 liyi,sublinea,1009 - LAM INOX T430 BA / PE,2024,60349.22,Suma de Peso en KGI  Etiquetas de columna,Comercial Demo,Sucursal Principal
+sublinea 24 25 liyi,sublinea,1009 - LAM INOX T430 BA / PE,2025,100681.44999999997,Suma de Peso en KGI  Etiquetas de columna,Comercial Demo,Sucursal Principal
+sublinea 24 25 liyi,sublinea,1010 - LAM INOX T430 N.4,2024,10319.810000000001,Suma de Peso en KGI  Etiquetas de columna,Comercial Demo,Sucursal Principal
+sublinea 24 25 liyi,sublinea,1010 - LAM INOX T430 N.4,2025,9193.83,Suma de Peso en KGI  Etiquetas de columna,Comercial Demo,Sucursal Principal
+sublinea 24 25 liyi,sublinea,1101 - ROLLO INOX T304 2B,2024,1824.6000000000004,Suma de Peso en KGI  Etiquetas de columna,Comercial Demo,Sucursal Principal
+sublinea 24 25 liyi,sublinea,1101 - ROLLO INOX T304 2B,2025,1596.56,Suma de Peso en KGI  Etiquetas de columna,Comercial Demo,Sucursal Principal
+sublinea 24 25 liyi,sublinea,1102 - ROLLO INOX T304 2B / PE,2024,131.25,Suma de Peso en KGI  Etiquetas de columna,Comercial Demo,Sucursal Principal
+sublinea 24 25 liyi,sublinea,1102 - ROLLO INOX T304 2B / PE,2025,5417.9,Suma de Peso en KGI  Etiquetas de columna,Comercial Demo,Sucursal Principal
+sublinea 24 25 liyi,sublinea,1103 - ROLLO INOX T304 N.4,2024,3261.0800000000004,Suma de Peso en KGI  Etiquetas de columna,Comercial Demo,Sucursal Principal
+sublinea 24 25 liyi,sublinea,1106 - ROLLO INOX T430 BA,2024,743.89,Suma de Peso en KGI  Etiquetas de columna,Comercial Demo,Sucursal Principal
+sublinea 24 25 liyi,sublinea,1106 - ROLLO INOX T430 BA,2025,421.79999999999995,Suma de Peso en KGI  Etiquetas de columna,Comercial Demo,Sucursal Principal
+sublinea 24 25 liyi,sublinea,1107 - ROLLO INOX T430 BA / PE,2024,21826.860000000015,Suma de Peso en KGI  Etiquetas de columna,Comercial Demo,Sucursal Principal
+sublinea 24 25 liyi,sublinea,1107 - ROLLO INOX T430 BA / PE,2025,28014.320000000003,Suma de Peso en KGI  Etiquetas de columna,Comercial Demo,Sucursal Principal
+sublinea 24 25 liyi,sublinea,1108 - ROLLO INOX T430 N.4,2024,10079.900000000001,Suma de Peso en KGI  Etiquetas de columna,Comercial Demo,Sucursal Principal
+sublinea 24 25 liyi,sublinea,1108 - ROLLO INOX T430 N.4,2025,19515.969999999998,Suma de Peso en KGI  Etiquetas de columna,Comercial Demo,Sucursal Principal
+sublinea 24 25 liyi,sublinea,1201 - LAM INOX T304 PF,2024,1200.5800000000004,Suma de Peso en KGI  Etiquetas de columna,Comercial Demo,Sucursal Principal
+sublinea 24 25 liyi,sublinea,1201 - LAM INOX T304 PF,2025,3537.980000000001,Suma de Peso en KGI  Etiquetas de columna,Comercial Demo,Sucursal Principal
+sublinea 24 25 liyi,sublinea,1301 - LAM INOX ALFAJOR,2024,999.1800000000001,Suma de Peso en KGI  Etiquetas de columna,Comercial Demo,Sucursal Principal
+sublinea 24 25 liyi,sublinea,1301 - LAM INOX ALFAJOR,2025,532.35,Suma de Peso en KGI  Etiquetas de columna,Comercial Demo,Sucursal Principal
+sublinea 24 25 liyi,sublinea,2001 - TUBERIA ORNAMENTAL CD T304,2024,14159.11,Suma de Peso en KGI  Etiquetas de columna,Comercial Demo,Sucursal Principal
+sublinea 24 25 liyi,sublinea,2001 - TUBERIA ORNAMENTAL CD T304,2025,18103.669999999995,Suma de Peso en KGI  Etiquetas de columna,Comercial Demo,Sucursal Principal
+sublinea 24 25 liyi,sublinea,2002 - TUBERIA ORNAMENTAL RC T304,2024,5333.3899999999985,Suma de Peso en KGI  Etiquetas de columna,Comercial Demo,Sucursal Principal
+sublinea 24 25 liyi,sublinea,2002 - TUBERIA ORNAMENTAL RC T304,2025,10028.310000000001,Suma de Peso en KGI  Etiquetas de columna,Comercial Demo,Sucursal Principal
+sublinea 24 25 liyi,sublinea,2003 - TUBERIA ORNAMENTAL RD T304,2024,71109.2100000001,Suma de Peso en KGI  Etiquetas de columna,Comercial Demo,Sucursal Principal
+sublinea 24 25 liyi,sublinea,2003 - TUBERIA ORNAMENTAL RD T304,2025,96750.06999999998,Suma de Peso en KGI  Etiquetas de columna,Comercial Demo,Sucursal Principal
+sublinea 24 25 liyi,sublinea,2004 - TUBERIA ORNAMENTAL RAN T304,2024,481.36,Suma de Peso en KGI  Etiquetas de columna,Comercial Demo,Sucursal Principal
+sublinea 24 25 liyi,sublinea,2004 - TUBERIA ORNAMENTAL RAN T304,2025,612.64,Suma de Peso en KGI  Etiquetas de columna,Comercial Demo,Sucursal Principal
+sublinea 24 25 liyi,sublinea,2006 - TUBERIA SANITARIA T304,2024,1391.24,Suma de Peso en KGI  Etiquetas de columna,Comercial Demo,Sucursal Principal
+sublinea 24 25 liyi,sublinea,2006 - TUBERIA SANITARIA T304,2025,2491.8,Suma de Peso en KGI  Etiquetas de columna,Comercial Demo,Sucursal Principal
+sublinea 24 25 liyi,sublinea,2008 - TUBERIA INDUSTRIAL RD SCHEDULE 10,2024,8994.139999999998,Suma de Peso en KGI  Etiquetas de columna,Comercial Demo,Sucursal Principal
+sublinea 24 25 liyi,sublinea,2008 - TUBERIA INDUSTRIAL RD SCHEDULE 10,2025,10611.449999999997,Suma de Peso en KGI  Etiquetas de columna,Comercial Demo,Sucursal Principal
+sublinea 24 25 liyi,sublinea,2009 - TUBERIA INDUSTRIAL RD SCHEDULE 40,2024,13853.11,Suma de Peso en KGI  Etiquetas de columna,Comercial Demo,Sucursal Principal
+sublinea 24 25 liyi,sublinea,2009 - TUBERIA INDUSTRIAL RD SCHEDULE 40,2025,11490.540000000008,Suma de Peso en KGI  Etiquetas de columna,Comercial Demo,Sucursal Principal
+sublinea 24 25 liyi,sublinea,3001 - ANGULO INOX T304,2024,16084.390000000003,Suma de Peso en KGI  Etiquetas de columna,Comercial Demo,Sucursal Principal
+sublinea 24 25 liyi,sublinea,3001 - ANGULO INOX T304,2025,7681.670000000001,Suma de Peso en KGI  Etiquetas de columna,Comercial Demo,Sucursal Principal
+sublinea 24 25 liyi,sublinea,3002 - BARRA INOX T304 CD,2024,345.66,Suma de Peso en KGI  Etiquetas de columna,Comercial Demo,Sucursal Principal
+sublinea 24 25 liyi,sublinea,3003 - BARRA INOX T304 RD,2024,34482.46999999997,Suma de Peso en KGI  Etiquetas de columna,Comercial Demo,Sucursal Principal
+sublinea 24 25 liyi,sublinea,3003 - BARRA INOX T304 RD,2025,38073.13,Suma de Peso en KGI  Etiquetas de columna,Comercial Demo,Sucursal Principal
+sublinea 24 25 liyi,sublinea,3006 - PLATINA INOX T304 CORT,2024,3640.0800000000017,Suma de Peso en KGI  Etiquetas de columna,Comercial Demo,Sucursal Principal
+sublinea 24 25 liyi,sublinea,3006 - PLATINA INOX T304 CORT,2025,3376.2100000000023,Suma de Peso en KGI  Etiquetas de columna,Comercial Demo,Sucursal Principal
+sublinea 24 25 liyi,sublinea,3008 - RETALES PERFILERIA,2024,193.53,Suma de Peso en KGI  Etiquetas de columna,Comercial Demo,Sucursal Principal
+sublinea 24 25 liyi,sublinea,3008 - RETALES PERFILERIA,2025,28.98,Suma de Peso en KGI  Etiquetas de columna,Comercial Demo,Sucursal Principal
+sublinea 24 25 liyi,sublinea,4001 - ALAMBRE INOX T302,2024,429.0,Suma de Peso en KGI  Etiquetas de columna,Comercial Demo,Sucursal Principal
+sublinea 24 25 liyi,sublinea,4001 - ALAMBRE INOX T302,2025,326.0,Suma de Peso en KGI  Etiquetas de columna,Comercial Demo,Sucursal Principal
+sublinea 24 25 liyi,sublinea,4002 - ALAMBRE INOX T304,2024,108.0,Suma de Peso en KGI  Etiquetas de columna,Comercial Demo,Sucursal Principal
+sublinea 24 25 liyi,sublinea,4002 - ALAMBRE INOX T304,2025,490.0,Suma de Peso en KGI  Etiquetas de columna,Comercial Demo,Sucursal Principal
+sublinea 24 25 liyi,sublinea,4101 - TELA MESH,2024,828.02,Suma de Peso en KGI  Etiquetas de columna,Comercial Demo,Sucursal Principal
+sublinea 24 25 liyi,sublinea,4101 - TELA MESH,2025,702.2700000000001,Suma de Peso en KGI  Etiquetas de columna,Comercial Demo,Sucursal Principal
+sublinea 24 25 liyi,sublinea,5201 - CS SERVICIO,2024,19.0,Suma de Peso en KGI  Etiquetas de columna,Comercial Demo,Sucursal Principal
+sublinea 24 25 liyi,sublinea,5201 - CS SERVICIO,2025,28.0,Suma de Peso en KGI  Etiquetas de columna,Comercial Demo,Sucursal Principal
+sublinea 24 25 liyi,sublinea,5301 - CS LASER,2024,47187.710000000036,Suma de Peso en KGI  Etiquetas de columna,Comercial Demo,Sucursal Principal
+sublinea 24 25 liyi,sublinea,5301 - CS LASER,2025,59123.02999999993,Suma de Peso en KGI  Etiquetas de columna,Comercial Demo,Sucursal Principal
+sublinea 24 25 liyi,sublinea,5302 - CS LASER DOBLEZ,2024,2676.4,Suma de Peso en KGI  Etiquetas de columna,Comercial Demo,Sucursal Principal
+sublinea 24 25 liyi,sublinea,5302 - CS LASER DOBLEZ,2025,453.89000000000004,Suma de Peso en KGI  Etiquetas de columna,Comercial Demo,Sucursal Principal
+sublinea 24 25 liyi,sublinea,5304 - CS CORTE CIZALLA,2024,176.75,Suma de Peso en KGI  Etiquetas de columna,Comercial Demo,Sucursal Principal
+sublinea 24 25 liyi,sublinea,5307 - CS BLANCO,2024,108.3,Suma de Peso en KGI  Etiquetas de columna,Comercial Demo,Sucursal Principal
+sublinea 24 25 liyi,sublinea,9002 - ACC ORNAMENTALES T304,2024,471.41999999999996,Suma de Peso en KGI  Etiquetas de columna,Comercial Demo,Sucursal Principal
+sublinea 24 25 liyi,sublinea,9002 - ACC ORNAMENTALES T304,2025,529.7699999999998,Suma de Peso en KGI  Etiquetas de columna,Comercial Demo,Sucursal Principal
+sublinea 24 25 liyi,sublinea,9004 - ACC CADENAS T304,2024,37.17999999999999,Suma de Peso en KGI  Etiquetas de columna,Comercial Demo,Sucursal Principal
+sublinea 24 25 liyi,sublinea,9004 - ACC CADENAS T304,2025,6.66,Suma de Peso en KGI  Etiquetas de columna,Comercial Demo,Sucursal Principal
+sublinea 24 25 liyi,sublinea,9008 - ACC SOLDADURA,2024,3.0,Suma de Peso en KGI  Etiquetas de columna,Comercial Demo,Sucursal Principal
+24 25 clientes liyi,cliente,PARADA FLOREZ YIMMY ALEXANDER,2024,48167.64999999998,Suma de Peso en KGI  Etiquetas de columna,Comercial Demo,Sucursal Principal
+24 25 clientes liyi,cliente,PARADA FLOREZ YIMMY ALEXANDER,2025,69644.49999999999,Suma de Peso en KGI  Etiquetas de columna,Comercial Demo,Sucursal Principal
+24 25 clientes liyi,cliente,TRESPALACIOS VERA LUIS HERNANDO,2024,29275.419999999962,Suma de Peso en KGI  Etiquetas de columna,Comercial Demo,Sucursal Principal
+24 25 clientes liyi,cliente,TRESPALACIOS VERA LUIS HERNANDO,2025,48684.30999999997,Suma de Peso en KGI  Etiquetas de columna,Comercial Demo,Sucursal Principal
+24 25 clientes liyi,cliente,FERRETERIA INDUSTRIAL SUPERIOR S.A.S.,2024,33730.40000000001,Suma de Peso en KGI  Etiquetas de columna,Comercial Demo,Sucursal Principal
+24 25 clientes liyi,cliente,FERRETERIA INDUSTRIAL SUPERIOR S.A.S.,2025,43071.46999999999,Suma de Peso en KGI  Etiquetas de columna,Comercial Demo,Sucursal Principal
+24 25 clientes liyi,cliente,PARADA FLOREZ ALBA ALEIDES,2024,16732.150000000012,Suma de Peso en KGI  Etiquetas de columna,Comercial Demo,Sucursal Principal
+24 25 clientes liyi,cliente,PARADA FLOREZ ALBA ALEIDES,2025,13751.970000000012,Suma de Peso en KGI  Etiquetas de columna,Comercial Demo,Sucursal Principal
+24 25 clientes liyi,cliente,MENESES PEREZ JOHAN OSWALDO,2024,13983.289999999999,Suma de Peso en KGI  Etiquetas de columna,Comercial Demo,Sucursal Principal
+24 25 clientes liyi,cliente,MENESES PEREZ JOHAN OSWALDO,2025,11989.730000000001,Suma de Peso en KGI  Etiquetas de columna,Comercial Demo,Sucursal Principal
+24 25 clientes liyi,cliente,FERREINOX INSUMOS BGA SAS,2024,7858.919999999998,Suma de Peso en KGI  Etiquetas de columna,Comercial Demo,Sucursal Principal
+24 25 clientes liyi,cliente,FERREINOX INSUMOS BGA SAS,2025,15792.420000000002,Suma de Peso en KGI  Etiquetas de columna,Comercial Demo,Sucursal Principal
+24 25 clientes liyi,cliente,REFRIGERACION COLDER S.A.S.,2024,9604.929999999998,Suma de Peso en KGI  Etiquetas de columna,Comercial Demo,Sucursal Principal
+24 25 clientes liyi,cliente,REFRIGERACION COLDER S.A.S.,2025,13470.05,Suma de Peso en KGI  Etiquetas de columna,Comercial Demo,Sucursal Principal
+24 25 clientes liyi,cliente,DISTRIACEROS DAZA SAS,2024,6699.289999999999,Suma de Peso en KGI  Etiquetas de columna,Comercial Demo,Sucursal Principal
+24 25 clientes liyi,cliente,DISTRIACEROS DAZA SAS,2025,15639.83,Suma de Peso en KGI  Etiquetas de columna,Comercial Demo,Sucursal Principal
+24 25 clientes liyi,cliente,GARCIA LUIS FRANCISCO,2024,10785.310000000001,Suma de Peso en KGI  Etiquetas de columna,Comercial Demo,Sucursal Principal
+24 25 clientes liyi,cliente,GARCIA LUIS FRANCISCO,2025,11548.030000000004,Suma de Peso en KGI  Etiquetas de columna,Comercial Demo,Sucursal Principal
+24 25 clientes liyi,cliente,DUENES VALERO JUAN CARLOS,2024,8502.490000000002,Suma de Peso en KGI  Etiquetas de columna,Comercial Demo,Sucursal Principal
+24 25 clientes liyi,cliente,DUENES VALERO JUAN CARLOS,2025,12081.170000000002,Suma de Peso en KGI  Etiquetas de columna,Comercial Demo,Sucursal Principal
+24 25 clientes liyi,cliente,SOLUCIONES ARQUITECTONICAS & ESTRUCTURALES SAE SAS,2024,8792.449999999995,Suma de Peso en KGI  Etiquetas de columna,Comercial Demo,Sucursal Principal
+24 25 clientes liyi,cliente,SOLUCIONES ARQUITECTONICAS & ESTRUCTURALES SAE SAS,2025,10683.210000000003,Suma de Peso en KGI  Etiquetas de columna,Comercial Demo,Sucursal Principal
+24 25 clientes liyi,cliente,VIDRIOS Y ALUMINIOS VIDRIALUM S H,2024,8245.97,Suma de Peso en KGI  Etiquetas de columna,Comercial Demo,Sucursal Principal
+24 25 clientes liyi,cliente,VIDRIOS Y ALUMINIOS VIDRIALUM S H,2025,11097.810000000001,Suma de Peso en KGI  Etiquetas de columna,Comercial Demo,Sucursal Principal
+24 25 clientes liyi,cliente,ENTHOS CIRCULAR FEED TECHNOLOGIES SAS,2024,11252.58,Suma de Peso en KGI  Etiquetas de columna,Comercial Demo,Sucursal Principal
+24 25 clientes liyi,cliente,ENTHOS CIRCULAR FEED TECHNOLOGIES SAS,2025,6717.490000000001,Suma de Peso en KGI  Etiquetas de columna,Comercial Demo,Sucursal Principal
+24 25 clientes liyi,cliente,FERRETERIA SANCHEZ D SAS,2024,13875.779999999999,Suma de Peso en KGI  Etiquetas de columna,Comercial Demo,Sucursal Principal
+24 25 clientes liyi,cliente,FERRETERIA SANCHEZ D SAS,2025,3198.9700000000003,Suma de Peso en KGI  Etiquetas de columna,Comercial Demo,Sucursal Principal
+24 25 clientes liyi,cliente,FERRETERIA INOXIDABLES SAS,2024,7859.360000000001,Suma de Peso en KGI  Etiquetas de columna,Comercial Demo,Sucursal Principal
+24 25 clientes liyi,cliente,FERRETERIA INOXIDABLES SAS,2025,8975.789999999997,Suma de Peso en KGI  Etiquetas de columna,Comercial Demo,Sucursal Principal
+24 25 clientes liyi,cliente,RECORTES Y DESPUNTES   LTDA,2024,8875.48,Suma de Peso en KGI  Etiquetas de columna,Comercial Demo,Sucursal Principal
+24 25 clientes liyi,cliente,RECORTES Y DESPUNTES   LTDA,2025,7305.889999999999,Suma de Peso en KGI  Etiquetas de columna,Comercial Demo,Sucursal Principal
+24 25 clientes liyi,cliente,MORENO CARDOZO EDWARD CARDUVYTH,2024,8325.910000000002,Suma de Peso en KGI  Etiquetas de columna,Comercial Demo,Sucursal Principal
+24 25 clientes liyi,cliente,MORENO CARDOZO EDWARD CARDUVYTH,2025,6050.660000000001,Suma de Peso en KGI  Etiquetas de columna,Comercial Demo,Sucursal Principal
+24 25 clientes liyi,cliente,PENAGOS HERMANOS Y COMPANIA S.A.S,2024,8605.290000000003,Suma de Peso en KGI  Etiquetas de columna,Comercial Demo,Sucursal Principal
+24 25 clientes liyi,cliente,PENAGOS HERMANOS Y COMPANIA S.A.S,2025,5474.170000000002,Suma de Peso en KGI  Etiquetas de columna,Comercial Demo,Sucursal Principal
+24 25 clientes liyi,cliente,RAMIREZ SOTO CIRO ANTONIO,2025,10160.4,Suma de Peso en KGI  Etiquetas de columna,Comercial Demo,Sucursal Principal
+24 25 clientes liyi,cliente,FERRETERIA VALNORTE S.A.S.,2025,9436.45,Suma de Peso en KGI  Etiquetas de columna,Comercial Demo,Sucursal Principal
+24 25 clientes liyi,cliente,VALVULAS Y ACCESORIOS DEL NORTE SAS,2024,9037.399999999998,Suma de Peso en KGI  Etiquetas de columna,Comercial Demo,Sucursal Principal
+24 25 clientes liyi,cliente,VALVULAS Y ACCESORIOS DEL NORTE SAS,2025,37.15,Suma de Peso en KGI  Etiquetas de columna,Comercial Demo,Sucursal Principal
+24 25 clientes liyi,cliente,INDUSTRIAS G & B LTDA,2024,2265.73,Suma de Peso en KGI  Etiquetas de columna,Comercial Demo,Sucursal Principal
+24 25 clientes liyi,cliente,INDUSTRIAS G & B LTDA,2025,5891.06,Suma de Peso en KGI  Etiquetas de columna,Comercial Demo,Sucursal Principal
+24 25 clientes liyi,cliente,VALVESOLUTIONS SAS,2024,5556.360000000001,Suma de Peso en KGI  Etiquetas de columna,Comercial Demo,Sucursal Principal
+24 25 clientes liyi,cliente,VALVESOLUTIONS SAS,2025,2495.78,Suma de Peso en KGI  Etiquetas de columna,Comercial Demo,Sucursal Principal
+24 25 clientes liyi,cliente,GOMEZ BENITEZ JORGE ELIECER,2024,4350.570000000001,Suma de Peso en KGI  Etiquetas de columna,Comercial Demo,Sucursal Principal
+24 25 clientes liyi,cliente,GOMEZ BENITEZ JORGE ELIECER,2025,3628.4000000000015,Suma de Peso en KGI  Etiquetas de columna,Comercial Demo,Sucursal Principal
+24 25 clientes liyi,cliente,FURGORIENTE S.A.,2024,5293.9800000000005,Suma de Peso en KGI  Etiquetas de columna,Comercial Demo,Sucursal Principal
+24 25 clientes liyi,cliente,FURGORIENTE S.A.,2025,2152.38,Suma de Peso en KGI  Etiquetas de columna,Comercial Demo,Sucursal Principal
+24 25 clientes liyi,cliente,CONTRERAS MOLANO DIEGO ARMANDO,2024,2852.92,Suma de Peso en KGI  Etiquetas de columna,Comercial Demo,Sucursal Principal
+24 25 clientes liyi,cliente,CONTRERAS MOLANO DIEGO ARMANDO,2025,4510.070000000001,Suma de Peso en KGI  Etiquetas de columna,Comercial Demo,Sucursal Principal
+24 25 clientes liyi,cliente,SERRANO GOMEZ GABRIEL,2024,2818.0799999999995,Suma de Peso en KGI  Etiquetas de columna,Comercial Demo,Sucursal Principal
+24 25 clientes liyi,cliente,SERRANO GOMEZ GABRIEL,2025,4037.57,Suma de Peso en KGI  Etiquetas de columna,Comercial Demo,Sucursal Principal
+24 25 clientes liyi,cliente,CONSORCIO PLAZA PAIPA,2025,6652.040000000001,Suma de Peso en KGI  Etiquetas de columna,Comercial Demo,Sucursal Principal
+24 25 clientes liyi,cliente,AVSA S.A,2024,1868.64,Suma de Peso en KGI  Etiquetas de columna,Comercial Demo,Sucursal Principal
+24 25 clientes liyi,cliente,AVSA S.A,2025,4571.450000000001,Suma de Peso en KGI  Etiquetas de columna,Comercial Demo,Sucursal Principal
+24 25 clientes liyi,cliente,HERNANDEZ  ARTURO,2024,2648.840000000001,Suma de Peso en KGI  Etiquetas de columna,Comercial Demo,Sucursal Principal
+24 25 clientes liyi,cliente,HERNANDEZ  ARTURO,2025,3729.6399999999994,Suma de Peso en KGI  Etiquetas de columna,Comercial Demo,Sucursal Principal
+24 25 clientes liyi,cliente,ACERO INOX SAS,2024,1807.2299999999998,Suma de Peso en KGI  Etiquetas de columna,Comercial Demo,Sucursal Principal
+24 25 clientes liyi,cliente,ACERO INOX SAS,2025,3970.409999999999,Suma de Peso en KGI  Etiquetas de columna,Comercial Demo,Sucursal Principal
+24 25 clientes liyi,cliente,BELTRAN VARGAS JORGE ELIECER,2024,5242.79,Suma de Peso en KGI  Etiquetas de columna,Comercial Demo,Sucursal Principal
+24 25 clientes liyi,cliente,BELTRAN VARGAS JORGE ELIECER,2025,409.89,Suma de Peso en KGI  Etiquetas de columna,Comercial Demo,Sucursal Principal
+24 25 clientes liyi,cliente,UMBARILA CONTRERAS MYRIAM,2024,2505.06,Suma de Peso en KGI  Etiquetas de columna,Comercial Demo,Sucursal Principal
+24 25 clientes liyi,cliente,UMBARILA CONTRERAS MYRIAM,2025,2541.1,Suma de Peso en KGI  Etiquetas de columna,Comercial Demo,Sucursal Principal
+24 25 clientes liyi,cliente,GOMEZ LARA DIEGO FRANCISCO,2024,2159.48,Suma de Peso en KGI  Etiquetas de columna,Comercial Demo,Sucursal Principal
+24 25 clientes liyi,cliente,GOMEZ LARA DIEGO FRANCISCO,2025,2725.9500000000003,Suma de Peso en KGI  Etiquetas de columna,Comercial Demo,Sucursal Principal
+24 25 clientes liyi,cliente,BAUTISTA CAMACHO EDWIN,2024,4668.12,Suma de Peso en KGI  Etiquetas de columna,Comercial Demo,Sucursal Principal
+24 25 clientes liyi,cliente,BAUTISTA CAMACHO EDWIN,2025,158.57,Suma de Peso en KGI  Etiquetas de columna,Comercial Demo,Sucursal Principal
+24 25 clientes liyi,cliente,IDIMSA LTDA,2024,3401.7,Suma de Peso en KGI  Etiquetas de columna,Comercial Demo,Sucursal Principal
+24 25 clientes liyi,cliente,IDIMSA LTDA,2025,1268.22,Suma de Peso en KGI  Etiquetas de columna,Comercial Demo,Sucursal Principal
+24 25 clientes liyi,cliente,IMESOG S.A.,2025,4669.1,Suma de Peso en KGI  Etiquetas de columna,Comercial Demo,Sucursal Principal
+24 25 clientes liyi,cliente,PRADA SERVIMARTINEZ S.A.S,2024,782.63,Suma de Peso en KGI  Etiquetas de columna,Comercial Demo,Sucursal Principal
+24 25 clientes liyi,cliente,PRADA SERVIMARTINEZ S.A.S,2025,3704.15,Suma de Peso en KGI  Etiquetas de columna,Comercial Demo,Sucursal Principal
+24 25 clientes liyi,cliente,MESA  JOSE ORLANDO,2024,2595.6000000000004,Suma de Peso en KGI  Etiquetas de columna,Comercial Demo,Sucursal Principal
+24 25 clientes liyi,cliente,MESA  JOSE ORLANDO,2025,1771.6,Suma de Peso en KGI  Etiquetas de columna,Comercial Demo,Sucursal Principal
+24 25 clientes liyi,cliente,BUITRAGO MARIA OLIVERIA,2024,1441.95,Suma de Peso en KGI  Etiquetas de columna,Comercial Demo,Sucursal Principal
+24 25 clientes liyi,cliente,BUITRAGO MARIA OLIVERIA,2025,2918.2,Suma de Peso en KGI  Etiquetas de columna,Comercial Demo,Sucursal Principal
+24 25 clientes liyi,cliente,BUITRAGO RODRIGUEZ LUIS DANILO,2024,1776.3899999999996,Suma de Peso en KGI  Etiquetas de columna,Comercial Demo,Sucursal Principal
+24 25 clientes liyi,cliente,BUITRAGO RODRIGUEZ LUIS DANILO,2025,2521.8399999999997,Suma de Peso en KGI  Etiquetas de columna,Comercial Demo,Sucursal Principal
+24 25 clientes liyi,cliente,METALIT S.A.S.,2024,3098.65,Suma de Peso en KGI  Etiquetas de columna,Comercial Demo,Sucursal Principal
+24 25 clientes liyi,cliente,METALIT S.A.S.,2025,1185.75,Suma de Peso en KGI  Etiquetas de columna,Comercial Demo,Sucursal Principal
+24 25 clientes liyi,cliente,GRANADOS ZORRO FABIO ANDRES,2024,1304.5,Suma de Peso en KGI  Etiquetas de columna,Comercial Demo,Sucursal Principal
+24 25 clientes liyi,cliente,GRANADOS ZORRO FABIO ANDRES,2025,2803.5000000000005,Suma de Peso en KGI  Etiquetas de columna,Comercial Demo,Sucursal Principal
+24 25 clientes liyi,cliente,DIAZ PINZON MILTON ALEJANDRO,2024,1413.05,Suma de Peso en KGI  Etiquetas de columna,Comercial Demo,Sucursal Principal
+24 25 clientes liyi,cliente,DIAZ PINZON MILTON ALEJANDRO,2025,2648.4400000000005,Suma de Peso en KGI  Etiquetas de columna,Comercial Demo,Sucursal Principal
+24 25 clientes liyi,cliente,INSTAVIDRIOS RENZA S.A.S,2024,802.02,Suma de Peso en KGI  Etiquetas de columna,Comercial Demo,Sucursal Principal
+24 25 clientes liyi,cliente,INSTAVIDRIOS RENZA S.A.S,2025,3018.4,Suma de Peso en KGI  Etiquetas de columna,Comercial Demo,Sucursal Principal
+24 25 clientes liyi,cliente,CALDERAS  INDUSTRIA TERMICA COLOMBIANA P&V SAS,2024,2563.48,Suma de Peso en KGI  Etiquetas de columna,Comercial Demo,Sucursal Principal
+24 25 clientes liyi,cliente,CALDERAS  INDUSTRIA TERMICA COLOMBIANA P&V SAS,2025,1242.1599999999996,Suma de Peso en KGI  Etiquetas de columna,Comercial Demo,Sucursal Principal
+24 25 clientes liyi,cliente,DAZA BAUTISTA WILLIAM,2024,1888.72,Suma de Peso en KGI  Etiquetas de columna,Comercial Demo,Sucursal Principal
+24 25 clientes liyi,cliente,DAZA BAUTISTA WILLIAM,2025,1846.82,Suma de Peso en KGI  Etiquetas de columna,Comercial Demo,Sucursal Principal
+24 25 clientes liyi,cliente,FERROCUCUTA SAS,2024,995.55,Suma de Peso en KGI  Etiquetas de columna,Comercial Demo,Sucursal Principal
+24 25 clientes liyi,cliente,FERROCUCUTA SAS,2025,2554.24,Suma de Peso en KGI  Etiquetas de columna,Comercial Demo,Sucursal Principal
+24 25 clientes liyi,cliente,TOBO SANTIAGO RICARDO,2024,380.85999999999996,Suma de Peso en KGI  Etiquetas de columna,Comercial Demo,Sucursal Principal
+24 25 clientes liyi,cliente,TOBO SANTIAGO RICARDO,2025,3133.56,Suma de Peso en KGI  Etiquetas de columna,Comercial Demo,Sucursal Principal
+24 25 clientes liyi,cliente,INDUSTRIAS METALICAS TABARES,2025,3508.64,Suma de Peso en KGI  Etiquetas de columna,Comercial Demo,Sucursal Principal
+24 25 clientes liyi,cliente,BUITRAGO  HUMBERTO,2024,668.31,Suma de Peso en KGI  Etiquetas de columna,Comercial Demo,Sucursal Principal
+24 25 clientes liyi,cliente,BUITRAGO  HUMBERTO,2025,2805.41,Suma de Peso en KGI  Etiquetas de columna,Comercial Demo,Sucursal Principal
+24 25 clientes liyi,cliente,FERREINDUSTRIALES LA 58 S.A.S.,2024,2791.75,Suma de Peso en KGI  Etiquetas de columna,Comercial Demo,Sucursal Principal
+24 25 clientes liyi,cliente,FERREINDUSTRIALES LA 58 S.A.S.,2025,642.3,Suma de Peso en KGI  Etiquetas de columna,Comercial Demo,Sucursal Principal
+24 25 clientes liyi,cliente,OSORIO CANO JORGE,2024,2313.1299999999997,Suma de Peso en KGI  Etiquetas de columna,Comercial Demo,Sucursal Principal
+24 25 clientes liyi,cliente,OSORIO CANO JORGE,2025,1118.45,Suma de Peso en KGI  Etiquetas de columna,Comercial Demo,Sucursal Principal
+24 25 clientes liyi,cliente,CARROCERIAS Y FURGONES TRUCKER S.A.S.,2024,943.1,Suma de Peso en KGI  Etiquetas de columna,Comercial Demo,Sucursal Principal
+24 25 clientes liyi,cliente,CARROCERIAS Y FURGONES TRUCKER S.A.S.,2025,2457.0,Suma de Peso en KGI  Etiquetas de columna,Comercial Demo,Sucursal Principal
+24 25 clientes liyi,cliente,GUERRERO CASTILLO JOSE ARIOLFO,2024,681.15,Suma de Peso en KGI  Etiquetas de columna,Comercial Demo,Sucursal Principal
+24 25 clientes liyi,cliente,GUERRERO CASTILLO JOSE ARIOLFO,2025,2688.2700000000004,Suma de Peso en KGI  Etiquetas de columna,Comercial Demo,Sucursal Principal
+24 25 clientes liyi,cliente,ACCEVITEL SAS,2024,2247.4200000000005,Suma de Peso en KGI  Etiquetas de columna,Comercial Demo,Sucursal Principal
+24 25 clientes liyi,cliente,ACCEVITEL SAS,2025,1086.6000000000004,Suma de Peso en KGI  Etiquetas de columna,Comercial Demo,Sucursal Principal
+24 25 clientes liyi,cliente,AVELLANEDA DIAZ CESAR ALEXIS,2024,1424.49,Suma de Peso en KGI  Etiquetas de columna,Comercial Demo,Sucursal Principal
+24 25 clientes liyi,cliente,AVELLANEDA DIAZ CESAR ALEXIS,2025,1734.69,Suma de Peso en KGI  Etiquetas de columna,Comercial Demo,Sucursal Principal
+24 25 clientes liyi,cliente,RUEDA MARTINEZ PAOLA ANDREA,2024,3157.7300000000014,Suma de Peso en KGI  Etiquetas de columna,Comercial Demo,Sucursal Principal
+24 25 clientes liyi,cliente,CASA INOX BGA S.A.S,2024,1569.3200000000002,Suma de Peso en KGI  Etiquetas de columna,Comercial Demo,Sucursal Principal
+24 25 clientes liyi,cliente,CASA INOX BGA S.A.S,2025,1303.4299999999998,Suma de Peso en KGI  Etiquetas de columna,Comercial Demo,Sucursal Principal
+24 25 clientes liyi,cliente,INGEONORTE LABORATORIOS S.A.S.,2024,2853.33,Suma de Peso en KGI  Etiquetas de columna,Comercial Demo,Sucursal Principal
+24 25 clientes liyi,cliente,DAZA DELGADO PABLO,2025,2837.3199999999997,Suma de Peso en KGI  Etiquetas de columna,Comercial Demo,Sucursal Principal
+24 25 clientes liyi,cliente,BUITRAGO JOSE JESUS,2024,995.27,Suma de Peso en KGI  Etiquetas de columna,Comercial Demo,Sucursal Principal
+24 25 clientes liyi,cliente,BUITRAGO JOSE JESUS,2025,1833.49,Suma de Peso en KGI  Etiquetas de columna,Comercial Demo,Sucursal Principal
+24 25 clientes liyi,cliente,TRESPALACIOS MANOSALVA IVAN DARIO,2025,2649.9500000000003,Suma de Peso en KGI  Etiquetas de columna,Comercial Demo,Sucursal Principal
+24 25 clientes liyi,cliente,A-CERO ARQUITECTURA S.A.S,2025,2578.999999999999,Suma de Peso en KGI  Etiquetas de columna,Comercial Demo,Sucursal Principal
+24 25 clientes liyi,cliente,DAZA YESID ALBERTO,2024,1270.15,Suma de Peso en KGI  Etiquetas de columna,Comercial Demo,Sucursal Principal
+24 25 clientes liyi,cliente,DAZA YESID ALBERTO,2025,1295.98,Suma de Peso en KGI  Etiquetas de columna,Comercial Demo,Sucursal Principal
+24 25 clientes liyi,cliente,CONSORCIO FRENTES CENAC 2024,2024,2449.34,Suma de Peso en KGI  Etiquetas de columna,Comercial Demo,Sucursal Principal
+24 25 clientes liyi,cliente,REPRESENTACIONES Y DISTRIBUCIONES RUBIO CAMARGO S.A.S.,2024,2442.15,Suma de Peso en KGI  Etiquetas de columna,Comercial Demo,Sucursal Principal
+24 25 clientes liyi,cliente,SANDOVAL PEREZ JEAN CARLOS,2024,1748.37,Suma de Peso en KGI  Etiquetas de columna,Comercial Demo,Sucursal Principal
+24 25 clientes liyi,cliente,SANDOVAL PEREZ JEAN CARLOS,2025,609.0,Suma de Peso en KGI  Etiquetas de columna,Comercial Demo,Sucursal Principal
+24 25 clientes liyi,cliente,HERNANDEZ  FERMIN,2024,175.2,Suma de Peso en KGI  Etiquetas de columna,Comercial Demo,Sucursal Principal
+24 25 clientes liyi,cliente,HERNANDEZ  FERMIN,2025,2138.42,Suma de Peso en KGI  Etiquetas de columna,Comercial Demo,Sucursal Principal
+24 25 clientes liyi,cliente,ALDANA QUINTERO JUAN CARLOS,2024,1235.46,Suma de Peso en KGI  Etiquetas de columna,Comercial Demo,Sucursal Principal
+24 25 clientes liyi,cliente,ALDANA QUINTERO JUAN CARLOS,2025,1040.2600000000002,Suma de Peso en KGI  Etiquetas de columna,Comercial Demo,Sucursal Principal
+24 25 clientes liyi,cliente,INOXCRAS SAS,2024,1165.0399999999997,Suma de Peso en KGI  Etiquetas de columna,Comercial Demo,Sucursal Principal
+24 25 clientes liyi,cliente,INOXCRAS SAS,2025,1070.77,Suma de Peso en KGI  Etiquetas de columna,Comercial Demo,Sucursal Principal
+24 25 clientes liyi,cliente,PEREZ MOLINA SONIA MARIA,2024,2132.55,Suma de Peso en KGI  Etiquetas de columna,Comercial Demo,Sucursal Principal
+24 25 clientes liyi,cliente,ORTIZ CRUZ WILSON ELIAS,2025,2118.69,Suma de Peso en KGI  Etiquetas de columna,Comercial Demo,Sucursal Principal
+24 25 clientes liyi,cliente,ARENAS MENDOZA NILSON,2024,1706.0000000000002,Suma de Peso en KGI  Etiquetas de columna,Comercial Demo,Sucursal Principal
+24 25 clientes liyi,cliente,ARENAS MENDOZA NILSON,2025,405.20000000000005,Suma de Peso en KGI  Etiquetas de columna,Comercial Demo,Sucursal Principal
+24 25 clientes liyi,cliente,LARA RODRIGUEZ NUMA ESPERANZA,2024,721.6500000000001,Suma de Peso en KGI  Etiquetas de columna,Comercial Demo,Sucursal Principal
+24 25 clientes liyi,cliente,LARA RODRIGUEZ NUMA ESPERANZA,2025,1382.4199999999998,Suma de Peso en KGI  Etiquetas de columna,Comercial Demo,Sucursal Principal
+24 25 clientes liyi,cliente,MARTINEZ ROJAS MARCO ALFREDO,2024,1956.93,Suma de Peso en KGI  Etiquetas de columna,Comercial Demo,Sucursal Principal
+24 25 clientes liyi,cliente,MARTINEZ ROJAS MARCO ALFREDO,2025,94.37,Suma de Peso en KGI  Etiquetas de columna,Comercial Demo,Sucursal Principal
+24 25 clientes liyi,cliente,CELY PRIETO MARIA CRISTINA,2024,785.8100000000001,Suma de Peso en KGI  Etiquetas de columna,Comercial Demo,Sucursal Principal
+24 25 clientes liyi,cliente,CELY PRIETO MARIA CRISTINA,2025,1162.1700000000003,Suma de Peso en KGI  Etiquetas de columna,Comercial Demo,Sucursal Principal
+24 25 clientes liyi,cliente,ACEROS METALEJES SAS,2024,192.88,Suma de Peso en KGI  Etiquetas de columna,Comercial Demo,Sucursal Principal
+24 25 clientes liyi,cliente,ACEROS METALEJES SAS,2025,1720.15,Suma de Peso en KGI  Etiquetas de columna,Comercial Demo,Sucursal Principal
+24 25 clientes liyi,cliente,ENCRISTAL SAS,2024,1719.3,Suma de Peso en KGI  Etiquetas de columna,Comercial Demo,Sucursal Principal
+24 25 clientes liyi,cliente,ENCRISTAL SAS,2025,167.3,Suma de Peso en KGI  Etiquetas de columna,Comercial Demo,Sucursal Principal
+24 25 clientes liyi,cliente,METALICAS Y CIVILES SOTO SAS,2024,1423.27,Suma de Peso en KGI  Etiquetas de columna,Comercial Demo,Sucursal Principal
+24 25 clientes liyi,cliente,METALICAS Y CIVILES SOTO SAS,2025,450.28,Suma de Peso en KGI  Etiquetas de columna,Comercial Demo,Sucursal Principal
+24 25 clientes liyi,cliente,HEFEACEROS S.A.S,2025,1767.73,Suma de Peso en KGI  Etiquetas de columna,Comercial Demo,Sucursal Principal
+24 25 clientes liyi,cliente,CANCINO JEREZ HERSON YAMID,2024,1069.1,Suma de Peso en KGI  Etiquetas de columna,Comercial Demo,Sucursal Principal
+24 25 clientes liyi,cliente,CANCINO JEREZ HERSON YAMID,2025,682.8000000000001,Suma de Peso en KGI  Etiquetas de columna,Comercial Demo,Sucursal Principal
+24 25 clientes liyi,cliente,INDUSTRIAS INOX HURTATIZ S.A.S,2024,864.72,Suma de Peso en KGI  Etiquetas de columna,Comercial Demo,Sucursal Principal
+24 25 clientes liyi,cliente,INDUSTRIAS INOX HURTATIZ S.A.S,2025,881.1099999999999,Suma de Peso en KGI  Etiquetas de columna,Comercial Demo,Sucursal Principal
+24 25 clientes liyi,cliente,MEGACEROS Y ESTRUCTURAS DE COLOMBIA SS,2024,1542.09,Suma de Peso en KGI  Etiquetas de columna,Comercial Demo,Sucursal Principal
+24 25 clientes liyi,cliente,MEGACEROS Y ESTRUCTURAS DE COLOMBIA SS,2025,202.34,Suma de Peso en KGI  Etiquetas de columna,Comercial Demo,Sucursal Principal
+24 25 clientes liyi,cliente,INOXIDABLES DEL ORIENTE S.A.S,2024,41.11,Suma de Peso en KGI  Etiquetas de columna,Comercial Demo,Sucursal Principal
+24 25 clientes liyi,cliente,INOXIDABLES DEL ORIENTE S.A.S,2025,1641.6699999999998,Suma de Peso en KGI  Etiquetas de columna,Comercial Demo,Sucursal Principal
+24 25 clientes liyi,cliente,DOBLADORA Y COMERCIALIZADORA 243 S.A.S,2024,743.8,Suma de Peso en KGI  Etiquetas de columna,Comercial Demo,Sucursal Principal
+24 25 clientes liyi,cliente,DOBLADORA Y COMERCIALIZADORA 243 S.A.S,2025,926.8499999999999,Suma de Peso en KGI  Etiquetas de columna,Comercial Demo,Sucursal Principal
+24 25 clientes liyi,cliente,ESTUPINAN MESA JORGE EDGAR,2025,1633.2599999999998,Suma de Peso en KGI  Etiquetas de columna,Comercial Demo,Sucursal Principal
+24 25 clientes liyi,cliente,MANCIPE  NESTOR,2024,489.30000000000007,Suma de Peso en KGI  Etiquetas de columna,Comercial Demo,Sucursal Principal
+24 25 clientes liyi,cliente,MANCIPE  NESTOR,2025,1143.58,Suma de Peso en KGI  Etiquetas de columna,Comercial Demo,Sucursal Principal
+24 25 clientes liyi,cliente,RODRIGUEZ ORTIZ SANDRA MILENA,2024,1237.89,Suma de Peso en KGI  Etiquetas de columna,Comercial Demo,Sucursal Principal
+24 25 clientes liyi,cliente,RODRIGUEZ ORTIZ SANDRA MILENA,2025,296.09000000000003,Suma de Peso en KGI  Etiquetas de columna,Comercial Demo,Sucursal Principal
+24 25 clientes liyi,cliente,CAMPOVET DISTRIBUCIONES SAS,2025,1515.31,Suma de Peso en KGI  Etiquetas de columna,Comercial Demo,Sucursal Principal
+24 25 clientes liyi,cliente,"SERVICIOS DE INGENIERIA MECANICA,CIVIL Y ELECTRICA S.A.S",2025,1509.7800000000002,Suma de Peso en KGI  Etiquetas de columna,Comercial Demo,Sucursal Principal
+24 25 clientes liyi,cliente,MERCHAN MORENO MARIA EDY,2024,994.56,Suma de Peso en KGI  Etiquetas de columna,Comercial Demo,Sucursal Principal
+24 25 clientes liyi,cliente,MERCHAN MORENO MARIA EDY,2025,497.28,Suma de Peso en KGI  Etiquetas de columna,Comercial Demo,Sucursal Principal
+24 25 clientes liyi,cliente,AVINSA SAS,2024,213.59,Suma de Peso en KGI  Etiquetas de columna,Comercial Demo,Sucursal Principal
+24 25 clientes liyi,cliente,AVINSA SAS,2025,1257.01,Suma de Peso en KGI  Etiquetas de columna,Comercial Demo,Sucursal Principal
+24 25 clientes liyi,cliente,MAYORDOMO BENITEZ FREDY ALONSO,2024,597.8299999999999,Suma de Peso en KGI  Etiquetas de columna,Comercial Demo,Sucursal Principal
+24 25 clientes liyi,cliente,MAYORDOMO BENITEZ FREDY ALONSO,2025,860.3,Suma de Peso en KGI  Etiquetas de columna,Comercial Demo,Sucursal Principal
+24 25 clientes liyi,cliente,LOAIZA DIAZ ELMINSON,2024,465.8800000000001,Suma de Peso en KGI  Etiquetas de columna,Comercial Demo,Sucursal Principal
+24 25 clientes liyi,cliente,LOAIZA DIAZ ELMINSON,2025,989.48,Suma de Peso en KGI  Etiquetas de columna,Comercial Demo,Sucursal Principal
+24 25 clientes liyi,cliente,ROMERO HIGUERA JAIRO,2024,115.99000000000001,Suma de Peso en KGI  Etiquetas de columna,Comercial Demo,Sucursal Principal
+24 25 clientes liyi,cliente,ROMERO HIGUERA JAIRO,2025,1306.53,Suma de Peso en KGI  Etiquetas de columna,Comercial Demo,Sucursal Principal
+24 25 clientes liyi,cliente,ROJAS RODRIGUEZ LEIDY JOHANA,2024,1399.0,Suma de Peso en KGI  Etiquetas de columna,Comercial Demo,Sucursal Principal
+24 25 clientes liyi,cliente,CRISTAL UNION DE COLOMBIA SAS,2024,1361.9099999999999,Suma de Peso en KGI  Etiquetas de columna,Comercial Demo,Sucursal Principal
+24 25 clientes liyi,cliente,CARDENAS RODRIGUEZ SEGUNDO JAVIER,2025,1326.09,Suma de Peso en KGI  Etiquetas de columna,Comercial Demo,Sucursal Principal
+24 25 clientes liyi,cliente,OXI NORTE SAS,2025,1289.3,Suma de Peso en KGI  Etiquetas de columna,Comercial Demo,Sucursal Principal
+24 25 clientes liyi,cliente,VELANDIA SANCHEZ MARLIX ANDREA,2025,1261.33,Suma de Peso en KGI  Etiquetas de columna,Comercial Demo,Sucursal Principal
+24 25 clientes liyi,cliente,MESA RODRIGUEZ FABIO ARTURO,2024,712.9399999999999,Suma de Peso en KGI  Etiquetas de columna,Comercial Demo,Sucursal Principal
+24 25 clientes liyi,cliente,MESA RODRIGUEZ FABIO ARTURO,2025,537.83,Suma de Peso en KGI  Etiquetas de columna,Comercial Demo,Sucursal Principal
+24 25 clientes liyi,cliente,DIAZ RODRIGUEZ HECTOR JULIO,2024,161.34000000000003,Suma de Peso en KGI  Etiquetas de columna,Comercial Demo,Sucursal Principal
+24 25 clientes liyi,cliente,DIAZ RODRIGUEZ HECTOR JULIO,2025,1056.9199999999998,Suma de Peso en KGI  Etiquetas de columna,Comercial Demo,Sucursal Principal
+24 25 clientes liyi,cliente,INVERSIONES LA VILLA REAL SASA,2024,1178.8799999999999,Suma de Peso en KGI  Etiquetas de columna,Comercial Demo,Sucursal Principal
+24 25 clientes liyi,cliente,STAINLESS SOLUTIONS SOLUCIONES INOXIDABLES SAS,2024,503.53999999999996,Suma de Peso en KGI  Etiquetas de columna,Comercial Demo,Sucursal Principal
+24 25 clientes liyi,cliente,STAINLESS SOLUTIONS SOLUCIONES INOXIDABLES SAS,2025,673.75,Suma de Peso en KGI  Etiquetas de columna,Comercial Demo,Sucursal Principal
+24 25 clientes liyi,cliente,CIFUENTES TOVAR JESUS LIBARDO,2024,750.0,Suma de Peso en KGI  Etiquetas de columna,Comercial Demo,Sucursal Principal
+24 25 clientes liyi,cliente,CIFUENTES TOVAR JESUS LIBARDO,2025,399.0,Suma de Peso en KGI  Etiquetas de columna,Comercial Demo,Sucursal Principal
+24 25 clientes liyi,cliente,CONSORCIO ESTADIO EL SOL,2025,1145.02,Suma de Peso en KGI  Etiquetas de columna,Comercial Demo,Sucursal Principal
+24 25 clientes liyi,cliente,MENDEZ  LUDING,2024,1111.63,Suma de Peso en KGI  Etiquetas de columna,Comercial Demo,Sucursal Principal
+24 25 clientes liyi,cliente,ALTAID SAS,2024,375.02000000000004,Suma de Peso en KGI  Etiquetas de columna,Comercial Demo,Sucursal Principal
+24 25 clientes liyi,cliente,ALTAID SAS,2025,692.3,Suma de Peso en KGI  Etiquetas de columna,Comercial Demo,Sucursal Principal
+24 25 clientes liyi,cliente,CEROM DE COLOMBIA S.A.S,2025,1063.27,Suma de Peso en KGI  Etiquetas de columna,Comercial Demo,Sucursal Principal
+24 25 clientes liyi,cliente,MERCHAN ARIZA CLARA AMELIA,2024,625.6199999999999,Suma de Peso en KGI  Etiquetas de columna,Comercial Demo,Sucursal Principal
+24 25 clientes liyi,cliente,MERCHAN ARIZA CLARA AMELIA,2025,431.94,Suma de Peso en KGI  Etiquetas de columna,Comercial Demo,Sucursal Principal
+24 25 clientes liyi,cliente,PROVEMALLAS SAS,2024,383.24999999999994,Suma de Peso en KGI  Etiquetas de columna,Comercial Demo,Sucursal Principal
+24 25 clientes liyi,cliente,PROVEMALLAS SAS,2025,649.77,Suma de Peso en KGI  Etiquetas de columna,Comercial Demo,Sucursal Principal
+24 25 clientes liyi,cliente,CIPRODYSER S.A,2024,1031.38,Suma de Peso en KGI  Etiquetas de columna,Comercial Demo,Sucursal Principal
+24 25 clientes liyi,cliente,RIVERA GARCIA JORGE,2024,204.22,Suma de Peso en KGI  Etiquetas de columna,Comercial Demo,Sucursal Principal
+24 25 clientes liyi,cliente,RIVERA GARCIA JORGE,2025,787.54,Suma de Peso en KGI  Etiquetas de columna,Comercial Demo,Sucursal Principal
+24 25 clientes liyi,cliente,MORENO RODRIGUEZ JAIME,2024,981.01,Suma de Peso en KGI  Etiquetas de columna,Comercial Demo,Sucursal Principal
+24 25 clientes liyi,cliente,CAÑA SANTA SAS,2025,979.06,Suma de Peso en KGI  Etiquetas de columna,Comercial Demo,Sucursal Principal
+24 25 clientes liyi,cliente,INGENIO INDUSTRIAL A&T S.A.S,2025,968.93,Suma de Peso en KGI  Etiquetas de columna,Comercial Demo,Sucursal Principal
+24 25 clientes liyi,cliente,ORTIZ CRIOLLO JAVIER MAURICIO,2024,228.2,Suma de Peso en KGI  Etiquetas de columna,Comercial Demo,Sucursal Principal
+24 25 clientes liyi,cliente,ORTIZ CRIOLLO JAVIER MAURICIO,2025,731.4999999999999,Suma de Peso en KGI  Etiquetas de columna,Comercial Demo,Sucursal Principal
+24 25 clientes liyi,cliente,AVENDANO CASTEBLANCO HECTOR ANDRES,2024,449.28,Suma de Peso en KGI  Etiquetas de columna,Comercial Demo,Sucursal Principal
+24 25 clientes liyi,cliente,AVENDANO CASTEBLANCO HECTOR ANDRES,2025,503.54,Suma de Peso en KGI  Etiquetas de columna,Comercial Demo,Sucursal Principal
+24 25 clientes liyi,cliente,ORGANIZACION DE DESARROLLO AUTOMOTRIZ S.A.S,2024,761.78,Suma de Peso en KGI  Etiquetas de columna,Comercial Demo,Sucursal Principal
+24 25 clientes liyi,cliente,ORGANIZACION DE DESARROLLO AUTOMOTRIZ S.A.S,2025,183.82,Suma de Peso en KGI  Etiquetas de columna,Comercial Demo,Sucursal Principal
+24 25 clientes liyi,cliente,DAMIAN DUARTE ROBINSON ANDRES,2024,474.9000000000001,Suma de Peso en KGI  Etiquetas de columna,Comercial Demo,Sucursal Principal
+24 25 clientes liyi,cliente,DAMIAN DUARTE ROBINSON ANDRES,2025,460.52,Suma de Peso en KGI  Etiquetas de columna,Comercial Demo,Sucursal Principal
+24 25 clientes liyi,cliente,QUINTERO ROJAS DARIO,2024,898.2000000000002,Suma de Peso en KGI  Etiquetas de columna,Comercial Demo,Sucursal Principal
+24 25 clientes liyi,cliente,ARENAS DE AFANADOR AIDE,2024,201.7,Suma de Peso en KGI  Etiquetas de columna,Comercial Demo,Sucursal Principal
+24 25 clientes liyi,cliente,ARENAS DE AFANADOR AIDE,2025,675.9799999999999,Suma de Peso en KGI  Etiquetas de columna,Comercial Demo,Sucursal Principal
+24 25 clientes liyi,cliente,AIRON BGA SAS,2024,658.89,Suma de Peso en KGI  Etiquetas de columna,Comercial Demo,Sucursal Principal
+24 25 clientes liyi,cliente,AIRON BGA SAS,2025,217.52,Suma de Peso en KGI  Etiquetas de columna,Comercial Demo,Sucursal Principal
+24 25 clientes liyi,cliente,RODRIGUEZ YAYA CRISTIAN ANDRES,2025,849.96,Suma de Peso en KGI  Etiquetas de columna,Comercial Demo,Sucursal Principal
+24 25 clientes liyi,cliente,PRINCIPAL DE ALUMINIOS Y CONTRUCCIONES LEGOM SAS,2024,217.6,Suma de Peso en KGI  Etiquetas de columna,Comercial Demo,Sucursal Principal
+24 25 clientes liyi,cliente,PRINCIPAL DE ALUMINIOS Y CONTRUCCIONES LEGOM SAS,2025,619.72,Suma de Peso en KGI  Etiquetas de columna,Comercial Demo,Sucursal Principal
+24 25 clientes liyi,cliente,CHINCHILLA SANDOVAL S.A.S,2024,784.59,Suma de Peso en KGI  Etiquetas de columna,Comercial Demo,Sucursal Principal
+24 25 clientes liyi,cliente,PRIETO JOSE ANGEL,2024,277.61,Suma de Peso en KGI  Etiquetas de columna,Comercial Demo,Sucursal Principal
+24 25 clientes liyi,cliente,PRIETO JOSE ANGEL,2025,506.86,Suma de Peso en KGI  Etiquetas de columna,Comercial Demo,Sucursal Principal
+24 25 clientes liyi,cliente,VARGAS  ISNEL,2024,205.98,Suma de Peso en KGI  Etiquetas de columna,Comercial Demo,Sucursal Principal
+24 25 clientes liyi,cliente,VARGAS  ISNEL,2025,559.69,Suma de Peso en KGI  Etiquetas de columna,Comercial Demo,Sucursal Principal
+24 25 clientes liyi,cliente,BENAVIDEZ  DESIVERIO,2024,238.89999999999998,Suma de Peso en KGI  Etiquetas de columna,Comercial Demo,Sucursal Principal
+24 25 clientes liyi,cliente,BENAVIDEZ  DESIVERIO,2025,507.39,Suma de Peso en KGI  Etiquetas de columna,Comercial Demo,Sucursal Principal
+24 25 clientes liyi,cliente,AVILA TORRES JUAN CAMILO,2024,745.2000000000002,Suma de Peso en KGI  Etiquetas de columna,Comercial Demo,Sucursal Principal
+24 25 clientes liyi,cliente,PESLAC PROCESADORA DE LACTEOS SAS,2024,742.13,Suma de Peso en KGI  Etiquetas de columna,Comercial Demo,Sucursal Principal
+24 25 clientes liyi,cliente,MAQUINADOS Y MONTAJES S.A.S,2024,139.23,Suma de Peso en KGI  Etiquetas de columna,Comercial Demo,Sucursal Principal
+24 25 clientes liyi,cliente,MAQUINADOS Y MONTAJES S.A.S,2025,589.18,Suma de Peso en KGI  Etiquetas de columna,Comercial Demo,Sucursal Principal
+24 25 clientes liyi,cliente,LEON TIRADO YEISON,2024,728.35,Suma de Peso en KGI  Etiquetas de columna,Comercial Demo,Sucursal Principal
+24 25 clientes liyi,cliente,REINA FONSECA LINA MARIA,2025,721.14,Suma de Peso en KGI  Etiquetas de columna,Comercial Demo,Sucursal Principal
+24 25 clientes liyi,cliente,SANCHEZ HEREDIA FERNEY,2025,719.4000000000001,Suma de Peso en KGI  Etiquetas de columna,Comercial Demo,Sucursal Principal
+24 25 clientes liyi,cliente,TRITURADOS PAZ DEL RIO S.A.S,2024,576.2,Suma de Peso en KGI  Etiquetas de columna,Comercial Demo,Sucursal Principal
+24 25 clientes liyi,cliente,TRITURADOS PAZ DEL RIO S.A.S,2025,133.2,Suma de Peso en KGI  Etiquetas de columna,Comercial Demo,Sucursal Principal
+24 25 clientes liyi,cliente,CALA MONROY JOSE,2024,693.08,Suma de Peso en KGI  Etiquetas de columna,Comercial Demo,Sucursal Principal
+24 25 clientes liyi,cliente,CARDOZO RODRIGUEZ NELSON ALEXANDER,2025,689.7000000000002,Suma de Peso en KGI  Etiquetas de columna,Comercial Demo,Sucursal Principal
+24 25 clientes liyi,cliente,OSMIO SAS,2025,671.59,Suma de Peso en KGI  Etiquetas de columna,Comercial Demo,Sucursal Principal
+24 25 clientes liyi,cliente,INDUSTRIAS JAICO Y COLDECI S.A.S,2024,666.5799999999999,Suma de Peso en KGI  Etiquetas de columna,Comercial Demo,Sucursal Principal
+24 25 clientes liyi,cliente,DERIVADOS LACTEOS LA ESPIGA DE ORO S.A.S,2025,666.37,Suma de Peso en KGI  Etiquetas de columna,Comercial Demo,Sucursal Principal
+24 25 clientes liyi,cliente,CORSEING SOCIEDAD POR ACCIONES SIMPLIFICADA,2024,618.8,Suma de Peso en KGI  Etiquetas de columna,Comercial Demo,Sucursal Principal
+24 25 clientes liyi,cliente,HURTADO VILLAMIL EDWIN ORLANDO,2024,617.91,Suma de Peso en KGI  Etiquetas de columna,Comercial Demo,Sucursal Principal
+24 25 clientes liyi,cliente,AVELLA BELTRAN JHONATHAN,2024,198.15000000000003,Suma de Peso en KGI  Etiquetas de columna,Comercial Demo,Sucursal Principal
+24 25 clientes liyi,cliente,AVELLA BELTRAN JHONATHAN,2025,408.4,Suma de Peso en KGI  Etiquetas de columna,Comercial Demo,Sucursal Principal
+24 25 clientes liyi,cliente,BLANCO JIMENEZ VICTOR HUGO,2025,601.2,Suma de Peso en KGI  Etiquetas de columna,Comercial Demo,Sucursal Principal
+24 25 clientes liyi,cliente,CARDOZO RODRIGUEZ JAVIER HERNANDO,2025,590.0300000000001,Suma de Peso en KGI  Etiquetas de columna,Comercial Demo,Sucursal Principal
+24 25 clientes liyi,cliente,GUERRERO SUPELANO RENSON ARLEY,2024,582.57,Suma de Peso en KGI  Etiquetas de columna,Comercial Demo,Sucursal Principal
+24 25 clientes liyi,cliente,METALURGICA DE SANTANDER SAS,2024,579.8,Suma de Peso en KGI  Etiquetas de columna,Comercial Demo,Sucursal Principal
+24 25 clientes liyi,cliente,VELASCO PEDRON DARWIN BRUNET,2025,571.0,Suma de Peso en KGI  Etiquetas de columna,Comercial Demo,Sucursal Principal
+24 25 clientes liyi,cliente,MENDOZA CONTRERAS KATHERINE YELITZA,2024,357.05,Suma de Peso en KGI  Etiquetas de columna,Comercial Demo,Sucursal Principal
+24 25 clientes liyi,cliente,MENDOZA CONTRERAS KATHERINE YELITZA,2025,206.0,Suma de Peso en KGI  Etiquetas de columna,Comercial Demo,Sucursal Principal
+24 25 clientes liyi,cliente,CORREA GONZALEZ YERSON,2025,546.1999999999999,Suma de Peso en KGI  Etiquetas de columna,Comercial Demo,Sucursal Principal
+24 25 clientes liyi,cliente,UNION TEMPORAL COBING INFRATUR,2025,543.7,Suma de Peso en KGI  Etiquetas de columna,Comercial Demo,Sucursal Principal
+24 25 clientes liyi,cliente,LAMBRANO MATEUS MAICK ALEXANDER,2025,540.17,Suma de Peso en KGI  Etiquetas de columna,Comercial Demo,Sucursal Principal
+24 25 clientes liyi,cliente,GOMEZ TUNJANO MAURICIO,2024,336.64,Suma de Peso en KGI  Etiquetas de columna,Comercial Demo,Sucursal Principal
+24 25 clientes liyi,cliente,GOMEZ TUNJANO MAURICIO,2025,180.44,Suma de Peso en KGI  Etiquetas de columna,Comercial Demo,Sucursal Principal
+24 25 clientes liyi,cliente,ESCAMILLA AMAYA HERNAN RODOLFO,2024,78.5,Suma de Peso en KGI  Etiquetas de columna,Comercial Demo,Sucursal Principal
+24 25 clientes liyi,cliente,ESCAMILLA AMAYA HERNAN RODOLFO,2025,437.45000000000005,Suma de Peso en KGI  Etiquetas de columna,Comercial Demo,Sucursal Principal
+24 25 clientes liyi,cliente,MEDINA MUÑOZ ANGIE,2025,513.17,Suma de Peso en KGI  Etiquetas de columna,Comercial Demo,Sucursal Principal
+24 25 clientes liyi,cliente,INDUCONST S.A.S.,2025,507.64,Suma de Peso en KGI  Etiquetas de columna,Comercial Demo,Sucursal Principal
+24 25 clientes liyi,cliente,RIVERA GONZALEZ LEONEL,2025,505.48,Suma de Peso en KGI  Etiquetas de columna,Comercial Demo,Sucursal Principal
+24 25 clientes liyi,cliente,FERRETERIA Y PERFILERIA HUNZA SAS,2025,498.61,Suma de Peso en KGI  Etiquetas de columna,Comercial Demo,Sucursal Principal
+24 25 clientes liyi,cliente,FONSECA  JOSE MIGUEL,2024,486.35,Suma de Peso en KGI  Etiquetas de columna,Comercial Demo,Sucursal Principal
+24 25 clientes liyi,cliente,HERNANDEZ E HECTOR,2024,329.15999999999997,Suma de Peso en KGI  Etiquetas de columna,Comercial Demo,Sucursal Principal
+24 25 clientes liyi,cliente,HERNANDEZ E HECTOR,2025,141.4,Suma de Peso en KGI  Etiquetas de columna,Comercial Demo,Sucursal Principal
+24 25 clientes liyi,cliente,NIETO  APOLINAR,2024,466.33000000000004,Suma de Peso en KGI  Etiquetas de columna,Comercial Demo,Sucursal Principal
+24 25 clientes liyi,cliente,DIAZ CASTRO JOSE YOBANI,2024,417.72,Suma de Peso en KGI  Etiquetas de columna,Comercial Demo,Sucursal Principal
+24 25 clientes liyi,cliente,DIAZ CASTRO JOSE YOBANI,2025,46.97,Suma de Peso en KGI  Etiquetas de columna,Comercial Demo,Sucursal Principal
+24 25 clientes liyi,cliente,SISMECOL SAS,2024,165.76,Suma de Peso en KGI  Etiquetas de columna,Comercial Demo,Sucursal Principal
+24 25 clientes liyi,cliente,SISMECOL SAS,2025,297.32,Suma de Peso en KGI  Etiquetas de columna,Comercial Demo,Sucursal Principal
+24 25 clientes liyi,cliente,INMETAR S.A.S.,2025,460.0,Suma de Peso en KGI  Etiquetas de columna,Comercial Demo,Sucursal Principal
+24 25 clientes liyi,cliente,MEDINA  JEFER,2024,80.81,Suma de Peso en KGI  Etiquetas de columna,Comercial Demo,Sucursal Principal
+24 25 clientes liyi,cliente,MEDINA  JEFER,2025,377.78000000000003,Suma de Peso en KGI  Etiquetas de columna,Comercial Demo,Sucursal Principal
+24 25 clientes liyi,cliente,CABRALES COGOLLO JULIANA,2024,446.5,Suma de Peso en KGI  Etiquetas de columna,Comercial Demo,Sucursal Principal
+24 25 clientes liyi,cliente,CARRILLO PIRACOCA EDUIN FABIAN,2025,445.79999999999995,Suma de Peso en KGI  Etiquetas de columna,Comercial Demo,Sucursal Principal
+24 25 clientes liyi,cliente,CRUZ GOMEZ GUILLERMO,2024,68.32000000000001,Suma de Peso en KGI  Etiquetas de columna,Comercial Demo,Sucursal Principal
+24 25 clientes liyi,cliente,CRUZ GOMEZ GUILLERMO,2025,366.2,Suma de Peso en KGI  Etiquetas de columna,Comercial Demo,Sucursal Principal
+24 25 clientes liyi,cliente,RINCON VARGAS WILLIAM FERNANDO,2024,141.17000000000002,Suma de Peso en KGI  Etiquetas de columna,Comercial Demo,Sucursal Principal
+24 25 clientes liyi,cliente,RINCON VARGAS WILLIAM FERNANDO,2025,266.0,Suma de Peso en KGI  Etiquetas de columna,Comercial Demo,Sucursal Principal
+24 25 clientes liyi,cliente,BRITO CASTAÑEDA ROLANDO,2024,401.3,Suma de Peso en KGI  Etiquetas de columna,Comercial Demo,Sucursal Principal
+24 25 clientes liyi,cliente,GUTIERREZ RIANO EDGAR,2024,86.0,Suma de Peso en KGI  Etiquetas de columna,Comercial Demo,Sucursal Principal
+24 25 clientes liyi,cliente,GUTIERREZ RIANO EDGAR,2025,313.46,Suma de Peso en KGI  Etiquetas de columna,Comercial Demo,Sucursal Principal
+24 25 clientes liyi,cliente,MONROY PEÑA KEVIN ANDREY,2025,393.54999999999995,Suma de Peso en KGI  Etiquetas de columna,Comercial Demo,Sucursal Principal
+24 25 clientes liyi,cliente,HIGUERA TORRES OSCAR ALEXANDER,2024,364.77,Suma de Peso en KGI  Etiquetas de columna,Comercial Demo,Sucursal Principal
+24 25 clientes liyi,cliente,HIGUERA TORRES OSCAR ALEXANDER,2025,11.33,Suma de Peso en KGI  Etiquetas de columna,Comercial Demo,Sucursal Principal
+24 25 clientes liyi,cliente,HERNANDEZ ESPINOSA NELSON DARIO,2025,375.96,Suma de Peso en KGI  Etiquetas de columna,Comercial Demo,Sucursal Principal
+24 25 clientes liyi,cliente,RODRIGUEZ CORREDOR YESID ORLANDO,2024,364.65,Suma de Peso en KGI  Etiquetas de columna,Comercial Demo,Sucursal Principal
+24 25 clientes liyi,cliente,VIDRIALUM RF SAS,2024,219.85,Suma de Peso en KGI  Etiquetas de columna,Comercial Demo,Sucursal Principal
+24 25 clientes liyi,cliente,VIDRIALUM RF SAS,2025,144.1,Suma de Peso en KGI  Etiquetas de columna,Comercial Demo,Sucursal Principal
+24 25 clientes liyi,cliente,MULTIACEROS B&M SAS,2025,362.0,Suma de Peso en KGI  Etiquetas de columna,Comercial Demo,Sucursal Principal
+24 25 clientes liyi,cliente,SOLTEC AG LTDA,2024,123.30999999999999,Suma de Peso en KGI  Etiquetas de columna,Comercial Demo,Sucursal Principal
+24 25 clientes liyi,cliente,SOLTEC AG LTDA,2025,232.99,Suma de Peso en KGI  Etiquetas de columna,Comercial Demo,Sucursal Principal
+24 25 clientes liyi,cliente,GIL  ADAN,2024,113.08,Suma de Peso en KGI  Etiquetas de columna,Comercial Demo,Sucursal Principal
+24 25 clientes liyi,cliente,GIL  ADAN,2025,228.23000000000002,Suma de Peso en KGI  Etiquetas de columna,Comercial Demo,Sucursal Principal
+24 25 clientes liyi,cliente,RONCANCIO SALINAS JONATHAN BERNARDO,2024,77.4,Suma de Peso en KGI  Etiquetas de columna,Comercial Demo,Sucursal Principal
+24 25 clientes liyi,cliente,RONCANCIO SALINAS JONATHAN BERNARDO,2025,262.98,Suma de Peso en KGI  Etiquetas de columna,Comercial Demo,Sucursal Principal
+24 25 clientes liyi,cliente,REFRI AMERICA S.A.S.,2024,133.0,Suma de Peso en KGI  Etiquetas de columna,Comercial Demo,Sucursal Principal
+24 25 clientes liyi,cliente,REFRI AMERICA S.A.S.,2025,199.5,Suma de Peso en KGI  Etiquetas de columna,Comercial Demo,Sucursal Principal
+24 25 clientes liyi,cliente,INCOLVIT LTDA,2024,75.1,Suma de Peso en KGI  Etiquetas de columna,Comercial Demo,Sucursal Principal
+24 25 clientes liyi,cliente,INCOLVIT LTDA,2025,251.28999999999994,Suma de Peso en KGI  Etiquetas de columna,Comercial Demo,Sucursal Principal
+24 25 clientes liyi,cliente,RAMIREZ BAUTISTA MIGUEL EDUARDO,2025,324.8,Suma de Peso en KGI  Etiquetas de columna,Comercial Demo,Sucursal Principal
+24 25 clientes liyi,cliente,FERRETERIA TODO HIERRO Y ACERO SAS,2024,319.98,Suma de Peso en KGI  Etiquetas de columna,Comercial Demo,Sucursal Principal
+24 25 clientes liyi,cliente,FE + CINOX SAS,2024,23.0,Suma de Peso en KGI  Etiquetas de columna,Comercial Demo,Sucursal Principal
+24 25 clientes liyi,cliente,FE + CINOX SAS,2025,291.59,Suma de Peso en KGI  Etiquetas de columna,Comercial Demo,Sucursal Principal
+24 25 clientes liyi,cliente,EDS ESTELAR SAS,2024,139.25,Suma de Peso en KGI  Etiquetas de columna,Comercial Demo,Sucursal Principal
+24 25 clientes liyi,cliente,EDS ESTELAR SAS,2025,174.87,Suma de Peso en KGI  Etiquetas de columna,Comercial Demo,Sucursal Principal
+24 25 clientes liyi,cliente,ORTEGON ABRIL JULIO ANDRES,2025,308.04,Suma de Peso en KGI  Etiquetas de columna,Comercial Demo,Sucursal Principal
+24 25 clientes liyi,cliente,NEW FULL HOUSE SAS,2024,299.75999999999993,Suma de Peso en KGI  Etiquetas de columna,Comercial Demo,Sucursal Principal
+24 25 clientes liyi,cliente,MAQCAFE INGENIERIA SAS,2024,295.8,Suma de Peso en KGI  Etiquetas de columna,Comercial Demo,Sucursal Principal
+24 25 clientes liyi,cliente,CORREDOR IBAÑEZ GABRIEL,2024,295.17,Suma de Peso en KGI  Etiquetas de columna,Comercial Demo,Sucursal Principal
+24 25 clientes liyi,cliente,BERNAL SORACA HECTOR ORLANDO,2024,294.96000000000004,Suma de Peso en KGI  Etiquetas de columna,Comercial Demo,Sucursal Principal
+24 25 clientes liyi,cliente,HECHO EN COLOMBIA DISENADORES LTDA,2024,147.34,Suma de Peso en KGI  Etiquetas de columna,Comercial Demo,Sucursal Principal
+24 25 clientes liyi,cliente,HECHO EN COLOMBIA DISENADORES LTDA,2025,147.34,Suma de Peso en KGI  Etiquetas de columna,Comercial Demo,Sucursal Principal
+24 25 clientes liyi,cliente,CLAROS  JOSE FERNANDO,2025,294.01,Suma de Peso en KGI  Etiquetas de columna,Comercial Demo,Sucursal Principal
+24 25 clientes liyi,cliente,"INGENIERIA, ASESORIA Y DESARROLLO LTDA",2024,50.1,Suma de Peso en KGI  Etiquetas de columna,Comercial Demo,Sucursal Principal
+24 25 clientes liyi,cliente,"INGENIERIA, ASESORIA Y DESARROLLO LTDA",2025,242.3,Suma de Peso en KGI  Etiquetas de columna,Comercial Demo,Sucursal Principal
+24 25 clientes liyi,cliente,MACROINGENIO SAS,2024,230.64,Suma de Peso en KGI  Etiquetas de columna,Comercial Demo,Sucursal Principal
+24 25 clientes liyi,cliente,MACROINGENIO SAS,2025,55.2,Suma de Peso en KGI  Etiquetas de columna,Comercial Demo,Sucursal Principal
+24 25 clientes liyi,cliente,"PROFECIONALES EN ACEROS,ABRASIVOS & ACCESORIOS S.A.S",2024,285.8,Suma de Peso en KGI  Etiquetas de columna,Comercial Demo,Sucursal Principal
+24 25 clientes liyi,cliente,GOMEZ CASTRO OSCAR IVAN,2024,281.88,Suma de Peso en KGI  Etiquetas de columna,Comercial Demo,Sucursal Principal
+24 25 clientes liyi,cliente,VELASQUEZ PEREIRA JUAN,2024,276.27,Suma de Peso en KGI  Etiquetas de columna,Comercial Demo,Sucursal Principal
+24 25 clientes liyi,cliente,VIDRIOS Y ACEROS AL SAS,2024,90.06,Suma de Peso en KGI  Etiquetas de columna,Comercial Demo,Sucursal Principal
+24 25 clientes liyi,cliente,VIDRIOS Y ACEROS AL SAS,2025,172.86,Suma de Peso en KGI  Etiquetas de columna,Comercial Demo,Sucursal Principal
+24 25 clientes liyi,cliente,ROCHA  ELKIN EFREN,2025,261.96000000000004,Suma de Peso en KGI  Etiquetas de columna,Comercial Demo,Sucursal Principal
+24 25 clientes liyi,cliente,RAMOS TRUJILLO HERNANDEZ,2024,259.56,Suma de Peso en KGI  Etiquetas de columna,Comercial Demo,Sucursal Principal
+24 25 clientes liyi,cliente,INGENIERIA VERDE FADE SAS,2024,256.28000000000003,Suma de Peso en KGI  Etiquetas de columna,Comercial Demo,Sucursal Principal
+24 25 clientes liyi,cliente,CUELLAR MUÑOZ JEFERS SMITH,2024,256.24,Suma de Peso en KGI  Etiquetas de columna,Comercial Demo,Sucursal Principal
+24 25 clientes liyi,cliente,RONCANCIO DUARTE JUAN SEBASTIAN,2025,249.48999999999998,Suma de Peso en KGI  Etiquetas de columna,Comercial Demo,Sucursal Principal
+24 25 clientes liyi,cliente,VELANDIA VELANDIA GLORIA MILENA,2025,241.28,Suma de Peso en KGI  Etiquetas de columna,Comercial Demo,Sucursal Principal
+24 25 clientes liyi,cliente,CIPAMOCHA ORTIZ JOSE FERNANDO,2024,232.2,Suma de Peso en KGI  Etiquetas de columna,Comercial Demo,Sucursal Principal
+24 25 clientes liyi,cliente,ASOCIACION MULTIACTIVA LA ESMERALDA,2024,76.00999999999999,Suma de Peso en KGI  Etiquetas de columna,Comercial Demo,Sucursal Principal
+24 25 clientes liyi,cliente,ASOCIACION MULTIACTIVA LA ESMERALDA,2025,150.84999999999997,Suma de Peso en KGI  Etiquetas de columna,Comercial Demo,Sucursal Principal
+24 25 clientes liyi,cliente,VERGEL GUERRERO CARLOS ALFREDO,2025,221.02,Suma de Peso en KGI  Etiquetas de columna,Comercial Demo,Sucursal Principal
+24 25 clientes liyi,cliente,VALVULAS DE COLOMBIA SAS,2024,220.11,Suma de Peso en KGI  Etiquetas de columna,Comercial Demo,Sucursal Principal
+24 25 clientes liyi,cliente,IMAX INDUSTRIAL S.A.S.,2025,213.7,Suma de Peso en KGI  Etiquetas de columna,Comercial Demo,Sucursal Principal
+24 25 clientes liyi,cliente,SANCHEZ RUIZ DANIEL,2025,212.31,Suma de Peso en KGI  Etiquetas de columna,Comercial Demo,Sucursal Principal
+24 25 clientes liyi,cliente,MORALES ACEVEDO CARLOS JULIAN,2024,211.16,Suma de Peso en KGI  Etiquetas de columna,Comercial Demo,Sucursal Principal
+24 25 clientes liyi,cliente,MEDINA CARREÑO JOAQUIN,2025,204.47,Suma de Peso en KGI  Etiquetas de columna,Comercial Demo,Sucursal Principal
+24 25 clientes liyi,cliente,JB INGENIERIA & PROYECTOS S.A.S.,2024,202.39,Suma de Peso en KGI  Etiquetas de columna,Comercial Demo,Sucursal Principal
+24 25 clientes liyi,cliente,PEREIRA MARTINEZ JOSIMAR,2025,198.8,Suma de Peso en KGI  Etiquetas de columna,Comercial Demo,Sucursal Principal
+24 25 clientes liyi,cliente,SANABRIA CARRILLO DIEGO FERNANDO,2024,155.98000000000002,Suma de Peso en KGI  Etiquetas de columna,Comercial Demo,Sucursal Principal
+24 25 clientes liyi,cliente,SANABRIA CARRILLO DIEGO FERNANDO,2025,41.36,Suma de Peso en KGI  Etiquetas de columna,Comercial Demo,Sucursal Principal
+24 25 clientes liyi,cliente,LARA RODRIGUEZ LUIS ERNESTO,2024,87.52,Suma de Peso en KGI  Etiquetas de columna,Comercial Demo,Sucursal Principal
+24 25 clientes liyi,cliente,LARA RODRIGUEZ LUIS ERNESTO,2025,109.53,Suma de Peso en KGI  Etiquetas de columna,Comercial Demo,Sucursal Principal
+24 25 clientes liyi,cliente,FONTECHA NIEVES DIEGO FERNANDO,2024,193.31,Suma de Peso en KGI  Etiquetas de columna,Comercial Demo,Sucursal Principal
+24 25 clientes liyi,cliente,COMESTIBLES SAN MARTIN S.A.S,2025,192.04000000000002,Suma de Peso en KGI  Etiquetas de columna,Comercial Demo,Sucursal Principal
+24 25 clientes liyi,cliente,MACI INGENIERIA SOCIEDAD POR ACCIONES SIMPLIFICADA,2024,191.75,Suma de Peso en KGI  Etiquetas de columna,Comercial Demo,Sucursal Principal
+24 25 clientes liyi,cliente,SOCIEDAD MOLINO DISALMAR SAS,2024,184.18,Suma de Peso en KGI  Etiquetas de columna,Comercial Demo,Sucursal Principal
+24 25 clientes liyi,cliente,BARON ROMERO JUAN CAMILO,2024,106.36,Suma de Peso en KGI  Etiquetas de columna,Comercial Demo,Sucursal Principal
+24 25 clientes liyi,cliente,BARON ROMERO JUAN CAMILO,2025,76.63999999999999,Suma de Peso en KGI  Etiquetas de columna,Comercial Demo,Sucursal Principal
+24 25 clientes liyi,cliente,ARIAS BELLO JAIME ANDRES,2024,77.8,Suma de Peso en KGI  Etiquetas de columna,Comercial Demo,Sucursal Principal
+24 25 clientes liyi,cliente,ARIAS BELLO JAIME ANDRES,2025,103.2,Suma de Peso en KGI  Etiquetas de columna,Comercial Demo,Sucursal Principal
+24 25 clientes liyi,cliente,RODRIGUEZ DUARTE GERMAN,2024,180.82,Suma de Peso en KGI  Etiquetas de columna,Comercial Demo,Sucursal Principal
+24 25 clientes liyi,cliente,INSTALVIT CRISTALES Y CORTINAS SAS,2024,126.42000000000002,Suma de Peso en KGI  Etiquetas de columna,Comercial Demo,Sucursal Principal
+24 25 clientes liyi,cliente,INSTALVIT CRISTALES Y CORTINAS SAS,2025,53.870000000000005,Suma de Peso en KGI  Etiquetas de columna,Comercial Demo,Sucursal Principal
+24 25 clientes liyi,cliente,ALDANA PEÑALOZA LEONARDO ANTONIO,2024,179.85999999999999,Suma de Peso en KGI  Etiquetas de columna,Comercial Demo,Sucursal Principal
+24 25 clientes liyi,cliente,RAMIREZ HERRERA  ALVARO,2024,176.75,Suma de Peso en KGI  Etiquetas de columna,Comercial Demo,Sucursal Principal
+24 25 clientes liyi,cliente,ORTIZ CHAPARRO JUAN MANUEL,2025,176.2,Suma de Peso en KGI  Etiquetas de columna,Comercial Demo,Sucursal Principal
+24 25 clientes liyi,cliente,SUMINISTROS Y SERVICIOS ALUINOX S.A.S,2025,170.1,Suma de Peso en KGI  Etiquetas de columna,Comercial Demo,Sucursal Principal
+24 25 clientes liyi,cliente,JNS INGENIERIA Y SOLUCIONES SAS,2024,163.68,Suma de Peso en KGI  Etiquetas de columna,Comercial Demo,Sucursal Principal
+24 25 clientes liyi,cliente,INOXIDABLES H.R. S.A.S.,2025,150.1,Suma de Peso en KGI  Etiquetas de columna,Comercial Demo,Sucursal Principal
+24 25 clientes liyi,cliente,MS INGENIERIA SOLUCIONES EN CONSTRUCCION S.A.S.,2025,150.05,Suma de Peso en KGI  Etiquetas de columna,Comercial Demo,Sucursal Principal
+24 25 clientes liyi,cliente,BARRERA CONTRERAS JEFFERSON EDUARDO,2024,148.47,Suma de Peso en KGI  Etiquetas de columna,Comercial Demo,Sucursal Principal
+24 25 clientes liyi,cliente,ESTRADA OCHOA LEIDY MARIANA,2024,148.0,Suma de Peso en KGI  Etiquetas de columna,Comercial Demo,Sucursal Principal
+24 25 clientes liyi,cliente,QUIROGA CUBIDES EDWIN RENE,2024,10.8,Suma de Peso en KGI  Etiquetas de columna,Comercial Demo,Sucursal Principal
+24 25 clientes liyi,cliente,QUIROGA CUBIDES EDWIN RENE,2025,135.60000000000002,Suma de Peso en KGI  Etiquetas de columna,Comercial Demo,Sucursal Principal
+24 25 clientes liyi,cliente,ORION SOLUCIONES DE INGENIERIA SAS,2024,56.56,Suma de Peso en KGI  Etiquetas de columna,Comercial Demo,Sucursal Principal
+24 25 clientes liyi,cliente,ORION SOLUCIONES DE INGENIERIA SAS,2025,88.1,Suma de Peso en KGI  Etiquetas de columna,Comercial Demo,Sucursal Principal
+24 25 clientes liyi,cliente,QUITIAN CAMACHO JOHN ALEXANDER,2024,136.38,Suma de Peso en KGI  Etiquetas de columna,Comercial Demo,Sucursal Principal
+24 25 clientes liyi,cliente,SANABRIA BALAGUERA MIGUEL ANGEL,2024,135.85,Suma de Peso en KGI  Etiquetas de columna,Comercial Demo,Sucursal Principal
+24 25 clientes liyi,cliente,GUTIERREZ ACOSTA EDGAR MANUEL,2025,131.98,Suma de Peso en KGI  Etiquetas de columna,Comercial Demo,Sucursal Principal
+24 25 clientes liyi,cliente,LESLES SERRANO MARCELO ALONSO,2025,128.9,Suma de Peso en KGI  Etiquetas de columna,Comercial Demo,Sucursal Principal
+24 25 clientes liyi,cliente,BETANCUR  LUZ YANETH,2024,126.09,Suma de Peso en KGI  Etiquetas de columna,Comercial Demo,Sucursal Principal
+24 25 clientes liyi,cliente,COY JOSE IGNACIO,2025,123.00999999999999,Suma de Peso en KGI  Etiquetas de columna,Comercial Demo,Sucursal Principal
+24 25 clientes liyi,cliente,INVERSIONES FIMAR S.A.S,2025,119.24,Suma de Peso en KGI  Etiquetas de columna,Comercial Demo,Sucursal Principal
+24 25 clientes liyi,cliente,MGC INGENIERIA ESTRUCTURAS MONTAJES Y SOLUC SAS,2024,111.5,Suma de Peso en KGI  Etiquetas de columna,Comercial Demo,Sucursal Principal
+24 25 clientes liyi,cliente,ELECTROMONTAJES J.C. LIMITADA,2024,110.5,Suma de Peso en KGI  Etiquetas de columna,Comercial Demo,Sucursal Principal
+24 25 clientes liyi,cliente,GONZALEZ CASTELLANOS JUAN JOSE,2024,65.64,Suma de Peso en KGI  Etiquetas de columna,Comercial Demo,Sucursal Principal
+24 25 clientes liyi,cliente,GONZALEZ CASTELLANOS JUAN JOSE,2025,43.76,Suma de Peso en KGI  Etiquetas de columna,Comercial Demo,Sucursal Principal
+24 25 clientes liyi,cliente,INVERSIONES SGQ SAS,2024,109.01000000000002,Suma de Peso en KGI  Etiquetas de columna,Comercial Demo,Sucursal Principal
+24 25 clientes liyi,cliente,IMPORTACIONES Y REPRESENTACIONES IMPOREP S.A.S.,2024,105.75,Suma de Peso en KGI  Etiquetas de columna,Comercial Demo,Sucursal Principal
+24 25 clientes liyi,cliente,ZONA DE OPERCONES LOGISTICAS AMBIENTALES Y RESIDUOS PELIGROSOS EMPRESA DE SERVICIOS PUBLICOS S.A.S.,2025,98.98,Suma de Peso en KGI  Etiquetas de columna,Comercial Demo,Sucursal Principal
+24 25 clientes liyi,cliente,PEREZ VARGAS FRANCISCO ABIGAIL,2024,98.88,Suma de Peso en KGI  Etiquetas de columna,Comercial Demo,Sucursal Principal
+24 25 clientes liyi,cliente,TOVAR QUIROZ CRISTOBAL,2025,96.16,Suma de Peso en KGI  Etiquetas de columna,Comercial Demo,Sucursal Principal
+24 25 clientes liyi,cliente,TORNOS LOPEZ S.A.S,2025,96.01,Suma de Peso en KGI  Etiquetas de columna,Comercial Demo,Sucursal Principal
+24 25 clientes liyi,cliente,PALACIOS MORA HERNAN,2024,95.59,Suma de Peso en KGI  Etiquetas de columna,Comercial Demo,Sucursal Principal
+24 25 clientes liyi,cliente,ACEROS Y ALUMINIOS INDUMETALICAS SAS,2024,51.4,Suma de Peso en KGI  Etiquetas de columna,Comercial Demo,Sucursal Principal
+24 25 clientes liyi,cliente,ACEROS Y ALUMINIOS INDUMETALICAS SAS,2025,44.08,Suma de Peso en KGI  Etiquetas de columna,Comercial Demo,Sucursal Principal
+24 25 clientes liyi,cliente,MENDOZA BOHORQUEZ JOSE RICAURTE,2025,88.25999999999999,Suma de Peso en KGI  Etiquetas de columna,Comercial Demo,Sucursal Principal
+24 25 clientes liyi,cliente,ESTUPIÑAN TORRES JUAN BAUTISTA,2024,86.6,Suma de Peso en KGI  Etiquetas de columna,Comercial Demo,Sucursal Principal
+24 25 clientes liyi,cliente,PUERTO FORERO WILLIAM ALBERTO,2024,20.0,Suma de Peso en KGI  Etiquetas de columna,Comercial Demo,Sucursal Principal
+24 25 clientes liyi,cliente,PUERTO FORERO WILLIAM ALBERTO,2025,65.0,Suma de Peso en KGI  Etiquetas de columna,Comercial Demo,Sucursal Principal
+24 25 clientes liyi,cliente,LACTEOS ALFRAN S.A.S.,2025,83.92,Suma de Peso en KGI  Etiquetas de columna,Comercial Demo,Sucursal Principal
+24 25 clientes liyi,cliente,SAENZ MERCHAN VICTOR MANUEL,2025,81.79,Suma de Peso en KGI  Etiquetas de columna,Comercial Demo,Sucursal Principal
+24 25 clientes liyi,cliente,NAVARRO DIAZ LUIS DAVID,2024,81.6,Suma de Peso en KGI  Etiquetas de columna,Comercial Demo,Sucursal Principal
+24 25 clientes liyi,cliente,CODIACEROS C.I SAS,2025,80.97999999999999,Suma de Peso en KGI  Etiquetas de columna,Comercial Demo,Sucursal Principal
+24 25 clientes liyi,cliente,A. INDUFERCO S.A.S,2024,16.54,Suma de Peso en KGI  Etiquetas de columna,Comercial Demo,Sucursal Principal
+24 25 clientes liyi,cliente,A. INDUFERCO S.A.S,2025,63.15,Suma de Peso en KGI  Etiquetas de columna,Comercial Demo,Sucursal Principal
+24 25 clientes liyi,cliente,SANCHEZ CARDENAS JOSE ROBERTO,2024,79.16,Suma de Peso en KGI  Etiquetas de columna,Comercial Demo,Sucursal Principal
+24 25 clientes liyi,cliente,GONZALEZ RODRIGUEZ ARIADNE JOHANA,2025,78.4,Suma de Peso en KGI  Etiquetas de columna,Comercial Demo,Sucursal Principal
+24 25 clientes liyi,cliente,CAMARGO VALDERRAMA YENI ROCIO,2025,77.0,Suma de Peso en KGI  Etiquetas de columna,Comercial Demo,Sucursal Principal
+24 25 clientes liyi,cliente,SANTA MARIA  JACOBO,2024,68.69,Suma de Peso en KGI  Etiquetas de columna,Comercial Demo,Sucursal Principal
+24 25 clientes liyi,cliente,GOMEZ VERDUGO YULY,2024,68.66,Suma de Peso en KGI  Etiquetas de columna,Comercial Demo,Sucursal Principal
+24 25 clientes liyi,cliente,VELOZA BASTO VALENINA,2024,67.7,Suma de Peso en KGI  Etiquetas de columna,Comercial Demo,Sucursal Principal
+24 25 clientes liyi,cliente,GONZALEZ JEREZ BRANDON ALEXIS,2025,67.16,Suma de Peso en KGI  Etiquetas de columna,Comercial Demo,Sucursal Principal
+24 25 clientes liyi,cliente,CAICEDO CAICEDO GILBERTO,2024,13.1,Suma de Peso en KGI  Etiquetas de columna,Comercial Demo,Sucursal Principal
+24 25 clientes liyi,cliente,CAICEDO CAICEDO GILBERTO,2025,53.93,Suma de Peso en KGI  Etiquetas de columna,Comercial Demo,Sucursal Principal
+24 25 clientes liyi,cliente,HERRAMEC SAS,2025,67.03,Suma de Peso en KGI  Etiquetas de columna,Comercial Demo,Sucursal Principal
+24 25 clientes liyi,cliente,MEKON E INGENIERIA S.A.S.,2024,33.06,Suma de Peso en KGI  Etiquetas de columna,Comercial Demo,Sucursal Principal
+24 25 clientes liyi,cliente,MEKON E INGENIERIA S.A.S.,2025,33.06,Suma de Peso en KGI  Etiquetas de columna,Comercial Demo,Sucursal Principal
+24 25 clientes liyi,cliente,FAMMICOL SAS,2024,65.19,Suma de Peso en KGI  Etiquetas de columna,Comercial Demo,Sucursal Principal
+24 25 clientes liyi,cliente,MOYANO ESPITIA ROLANDO JAVIER,2024,64.2,Suma de Peso en KGI  Etiquetas de columna,Comercial Demo,Sucursal Principal
+24 25 clientes liyi,cliente,RINCON BARRENO SERGIO,2024,11.969999999999999,Suma de Peso en KGI  Etiquetas de columna,Comercial Demo,Sucursal Principal
+24 25 clientes liyi,cliente,RINCON BARRENO SERGIO,2025,51.279999999999994,Suma de Peso en KGI  Etiquetas de columna,Comercial Demo,Sucursal Principal
+24 25 clientes liyi,cliente,NAVARRO  JOSE,2024,39.209999999999994,Suma de Peso en KGI  Etiquetas de columna,Comercial Demo,Sucursal Principal
+24 25 clientes liyi,cliente,NAVARRO  JOSE,2025,21.259999999999998,Suma de Peso en KGI  Etiquetas de columna,Comercial Demo,Sucursal Principal
+24 25 clientes liyi,cliente,SOLANO PINZON PEDRO NOEL,2024,59.72,Suma de Peso en KGI  Etiquetas de columna,Comercial Demo,Sucursal Principal
+24 25 clientes liyi,cliente,CENTRAL DE ABARROTES DS S.A,2025,57.1,Suma de Peso en KGI  Etiquetas de columna,Comercial Demo,Sucursal Principal
+24 25 clientes liyi,cliente,FERRETERIA INDUSTRIAL PETROLERA DE BMEJA S.A.S.,2025,57.1,Suma de Peso en KGI  Etiquetas de columna,Comercial Demo,Sucursal Principal
+24 25 clientes liyi,cliente,OTALORA MESA DANIEL ALFONSO,2024,54.92,Suma de Peso en KGI  Etiquetas de columna,Comercial Demo,Sucursal Principal
+24 25 clientes liyi,cliente,ARIZA ALVAREZ WILSON,2025,53.68,Suma de Peso en KGI  Etiquetas de columna,Comercial Demo,Sucursal Principal
+24 25 clientes liyi,cliente,SIERRA RODRIGUEZ ALVARO,2025,52.65,Suma de Peso en KGI  Etiquetas de columna,Comercial Demo,Sucursal Principal
+24 25 clientes liyi,cliente,ALBARRACIN JAIMES MIGUEL ARCANGEL,2024,49.0,Suma de Peso en KGI  Etiquetas de columna,Comercial Demo,Sucursal Principal
+24 25 clientes liyi,cliente,TOVAR CHAPARRO JAIRO URIEL,2024,48.64,Suma de Peso en KGI  Etiquetas de columna,Comercial Demo,Sucursal Principal
+24 25 clientes liyi,cliente,PIRANEQUE RIOS EDISON FABIAN,2025,48.21,Suma de Peso en KGI  Etiquetas de columna,Comercial Demo,Sucursal Principal
+24 25 clientes liyi,cliente,PATIÑO AGUINAGA JLLAN CARLOS,2024,47.93,Suma de Peso en KGI  Etiquetas de columna,Comercial Demo,Sucursal Principal
+24 25 clientes liyi,cliente,CASTRO LADINO JULIO CESAR,2024,46.29,Suma de Peso en KGI  Etiquetas de columna,Comercial Demo,Sucursal Principal
+24 25 clientes liyi,cliente,CABRERA MARTINEZ OMAR ENRIQUE,2025,44.75,Suma de Peso en KGI  Etiquetas de columna,Comercial Demo,Sucursal Principal
+24 25 clientes liyi,cliente,METALINOX HC S.A.S,2025,40.0,Suma de Peso en KGI  Etiquetas de columna,Comercial Demo,Sucursal Principal
+24 25 clientes liyi,cliente,CUBILLOS ANTONIO ABEL DE JESUS,2024,39.74,Suma de Peso en KGI  Etiquetas de columna,Comercial Demo,Sucursal Principal
+24 25 clientes liyi,cliente,ORDUZ GUERRERO SANDRA YAZMIN,2025,39.23,Suma de Peso en KGI  Etiquetas de columna,Comercial Demo,Sucursal Principal
+24 25 clientes liyi,cliente,PARRA ARCOS LEONARDO,2025,38.8,Suma de Peso en KGI  Etiquetas de columna,Comercial Demo,Sucursal Principal
+24 25 clientes liyi,cliente,VEGA CANO FRANKY HERNAN,2025,38.3,Suma de Peso en KGI  Etiquetas de columna,Comercial Demo,Sucursal Principal
+24 25 clientes liyi,cliente,ADIPACK LTDA,2024,21.24,Suma de Peso en KGI  Etiquetas de columna,Comercial Demo,Sucursal Principal
+24 25 clientes liyi,cliente,ADIPACK LTDA,2025,16.28,Suma de Peso en KGI  Etiquetas de columna,Comercial Demo,Sucursal Principal
+24 25 clientes liyi,cliente,GOMEZ TUNJANO ALVARO DANIEL,2024,21.18,Suma de Peso en KGI  Etiquetas de columna,Comercial Demo,Sucursal Principal
+24 25 clientes liyi,cliente,GOMEZ TUNJANO ALVARO DANIEL,2025,13.18,Suma de Peso en KGI  Etiquetas de columna,Comercial Demo,Sucursal Principal
+24 25 clientes liyi,cliente,FRIGORIFICO VALLE DE TENZA SA FRIGAVATENZA S A,2025,33.28,Suma de Peso en KGI  Etiquetas de columna,Comercial Demo,Sucursal Principal
+24 25 clientes liyi,cliente,AVICOLA BARBOSA SAS,2025,31.14,Suma de Peso en KGI  Etiquetas de columna,Comercial Demo,Sucursal Principal
+24 25 clientes liyi,cliente,HERNANDEZ ORTIZ JOSE ULISES,2025,30.72,Suma de Peso en KGI  Etiquetas de columna,Comercial Demo,Sucursal Principal
+24 25 clientes liyi,cliente,ARIAS SUCESORES SAS,2024,28.2,Suma de Peso en KGI  Etiquetas de columna,Comercial Demo,Sucursal Principal
+24 25 clientes liyi,cliente,DE AVILA QUINTERO ALEJANDRO ENRIQUE,2025,26.86,Suma de Peso en KGI  Etiquetas de columna,Comercial Demo,Sucursal Principal
+24 25 clientes liyi,cliente,MARAL TECNOLOGIA Y COMUNICACIONES S.A.S.,2025,25.0,Suma de Peso en KGI  Etiquetas de columna,Comercial Demo,Sucursal Principal
+24 25 clientes liyi,cliente,MCA INGENIERIA S.A.S.,2024,21.68,Suma de Peso en KGI  Etiquetas de columna,Comercial Demo,Sucursal Principal
+24 25 clientes liyi,cliente,MYC MONTAJES Y CONSTRUCCIONES SAS,2024,21.68,Suma de Peso en KGI  Etiquetas de columna,Comercial Demo,Sucursal Principal
+24 25 clientes liyi,cliente,MARTIN DUEÑAS CARLOS ARTURO,2025,21.21,Suma de Peso en KGI  Etiquetas de columna,Comercial Demo,Sucursal Principal
+24 25 clientes liyi,cliente,SR INGENIERIA SAS,2025,21.0,Suma de Peso en KGI  Etiquetas de columna,Comercial Demo,Sucursal Principal
+24 25 clientes liyi,cliente,SERIXS MTM SAS,2025,20.88,Suma de Peso en KGI  Etiquetas de columna,Comercial Demo,Sucursal Principal
+24 25 clientes liyi,cliente,ALMACEN INDUSTRIA LA NACIONAL S.A.S.,2024,20.0,Suma de Peso en KGI  Etiquetas de columna,Comercial Demo,Sucursal Principal
+24 25 clientes liyi,cliente,JAIMES PINTO JORGE ENRIQUE,2025,20.0,Suma de Peso en KGI  Etiquetas de columna,Comercial Demo,Sucursal Principal
+24 25 clientes liyi,cliente,CONEXIONES Y TUBERIAS INDUSTRIALES S.A.S,2025,18.58,Suma de Peso en KGI  Etiquetas de columna,Comercial Demo,Sucursal Principal
+24 25 clientes liyi,cliente,CONSUEGRA AMAYA CARLOS EDUARDO,2024,18.0,Suma de Peso en KGI  Etiquetas de columna,Comercial Demo,Sucursal Principal
+24 25 clientes liyi,cliente,BAEZ MARTINEZ WILMER ENRIQUE,2024,16.84,Suma de Peso en KGI  Etiquetas de columna,Comercial Demo,Sucursal Principal
+24 25 clientes liyi,cliente,FERRE INDUSTRIAL GAONA S.A.S.,2025,16.27,Suma de Peso en KGI  Etiquetas de columna,Comercial Demo,Sucursal Principal
+24 25 clientes liyi,cliente,GALVIS MAYORGA LUIS ANTONIO,2025,15.79,Suma de Peso en KGI  Etiquetas de columna,Comercial Demo,Sucursal Principal
+24 25 clientes liyi,cliente,MONOGA GOMEZ JOHN SEBASTIAN,2024,15.219999999999999,Suma de Peso en KGI  Etiquetas de columna,Comercial Demo,Sucursal Principal
+24 25 clientes liyi,cliente,VARGAS BERMUDEZ HELMER,2025,14.899999999999999,Suma de Peso en KGI  Etiquetas de columna,Comercial Demo,Sucursal Principal
+24 25 clientes liyi,cliente,GAMETAL LIMITADA,2025,11.48,Suma de Peso en KGI  Etiquetas de columna,Comercial Demo,Sucursal Principal
+24 25 clientes liyi,cliente,HURTADO MANTILLA RAFAEL ENRIQUE,2024,10.0,Suma de Peso en KGI  Etiquetas de columna,Comercial Demo,Sucursal Principal
+24 25 clientes liyi,cliente,MACIAS GARCIA YONI ALEXANDER,2024,10.0,Suma de Peso en KGI  Etiquetas de columna,Comercial Demo,Sucursal Principal
+24 25 clientes liyi,cliente,ALBARRACIN  MIGUEL ARCANGEL,2024,8.0,Suma de Peso en KGI  Etiquetas de columna,Comercial Demo,Sucursal Principal
+24 25 clientes liyi,cliente,DELGADO MENDEZ JESUS ARMANDO,2024,7.15,Suma de Peso en KGI  Etiquetas de columna,Comercial Demo,Sucursal Principal
+24 25 clientes liyi,cliente,CHIVATA SUAREZ MOISES,2025,5.8,Suma de Peso en KGI  Etiquetas de columna,Comercial Demo,Sucursal Principal
+24 25 clientes liyi,cliente,BARRERA CARLOS ALBERTO,2025,5.59,Suma de Peso en KGI  Etiquetas de columna,Comercial Demo,Sucursal Principal
+24 25 clientes liyi,cliente,INDU-APIS SOCIEDAD POR ACCIONES SIMPLIFICADA,2025,5.4,Suma de Peso en KGI  Etiquetas de columna,Comercial Demo,Sucursal Principal
+24 25 clientes liyi,cliente,GAVIONES MALLAS Y CONSTRUCCIONES S.A.S,2024,5.0,Suma de Peso en KGI  Etiquetas de columna,Comercial Demo,Sucursal Principal
+24 25 clientes liyi,cliente,NEGRO CRUZ SEGUNDO VICENTE,2024,5.0,Suma de Peso en KGI  Etiquetas de columna,Comercial Demo,Sucursal Principal
+24 25 clientes liyi,cliente,VALENCIA MANOSALVA SALOMON,2024,2.0,Suma de Peso en KGI  Etiquetas de columna,Comercial Demo,Sucursal Principal
+24 25 clientes liyi,cliente,INDUFILTER'S PRODUCTOS INDUSTRIALES S.A.S.,2024,1.25,Suma de Peso en KGI  Etiquetas de columna,Comercial Demo,Sucursal Principal
+lamina 430,producto_demo,TRESPALACIOS VERA LUIS HERNANDO,2024,19431.44999999999,Suma de Peso en KGI  Etiquetas de columna,Comercial Demo,Sucursal Principal
+lamina 430,producto_demo,TRESPALACIOS VERA LUIS HERNANDO,2025,34232.50999999998,Suma de Peso en KGI  Etiquetas de columna,Comercial Demo,Sucursal Principal
+lamina 430,producto_demo,MENESES PEREZ JOHAN OSWALDO,2024,8481.82,Suma de Peso en KGI  Etiquetas de columna,Comercial Demo,Sucursal Principal
+lamina 430,producto_demo,MENESES PEREZ JOHAN OSWALDO,2025,7634.86,Suma de Peso en KGI  Etiquetas de columna,Comercial Demo,Sucursal Principal
+lamina 430,producto_demo,PARADA FLOREZ YIMMY ALEXANDER,2024,4201.76,Suma de Peso en KGI  Etiquetas de columna,Comercial Demo,Sucursal Principal
+lamina 430,producto_demo,PARADA FLOREZ YIMMY ALEXANDER,2025,10946.170000000004,Suma de Peso en KGI  Etiquetas de columna,Comercial Demo,Sucursal Principal
+lamina 430,producto_demo,FERRETERIA SANCHEZ D SAS,2024,11039.78,Suma de Peso en KGI  Etiquetas de columna,Comercial Demo,Sucursal Principal
+lamina 430,producto_demo,FERRETERIA SANCHEZ D SAS,2025,2094.15,Suma de Peso en KGI  Etiquetas de columna,Comercial Demo,Sucursal Principal
+lamina 430,producto_demo,RAMIREZ SOTO CIRO ANTONIO,2025,10160.4,Suma de Peso en KGI  Etiquetas de columna,Comercial Demo,Sucursal Principal
+lamina 430,producto_demo,FERRETERIA INDUSTRIAL SUPERIOR S.A.S.,2024,3996.0599999999995,Suma de Peso en KGI  Etiquetas de columna,Comercial Demo,Sucursal Principal
+lamina 430,producto_demo,FERRETERIA INDUSTRIAL SUPERIOR S.A.S.,2025,3790.14,Suma de Peso en KGI  Etiquetas de columna,Comercial Demo,Sucursal Principal
+lamina 430,producto_demo,RECORTES Y DESPUNTES   LTDA,2024,3593.169999999999,Suma de Peso en KGI  Etiquetas de columna,Comercial Demo,Sucursal Principal
+lamina 430,producto_demo,RECORTES Y DESPUNTES   LTDA,2025,3389.4800000000005,Suma de Peso en KGI  Etiquetas de columna,Comercial Demo,Sucursal Principal
+lamina 430,producto_demo,IMESOG S.A.,2025,4669.1,Suma de Peso en KGI  Etiquetas de columna,Comercial Demo,Sucursal Principal
+lamina 430,producto_demo,MESA  JOSE ORLANDO,2024,2595.6000000000004,Suma de Peso en KGI  Etiquetas de columna,Comercial Demo,Sucursal Principal
+lamina 430,producto_demo,MESA  JOSE ORLANDO,2025,1771.6,Suma de Peso en KGI  Etiquetas de columna,Comercial Demo,Sucursal Principal
+lamina 430,producto_demo,BUITRAGO MARIA OLIVERIA,2024,1441.95,Suma de Peso en KGI  Etiquetas de columna,Comercial Demo,Sucursal Principal
+lamina 430,producto_demo,BUITRAGO MARIA OLIVERIA,2025,2918.2,Suma de Peso en KGI  Etiquetas de columna,Comercial Demo,Sucursal Principal
+lamina 430,producto_demo,GRANADOS ZORRO FABIO ANDRES,2024,1304.5,Suma de Peso en KGI  Etiquetas de columna,Comercial Demo,Sucursal Principal
+lamina 430,producto_demo,GRANADOS ZORRO FABIO ANDRES,2025,2803.5000000000005,Suma de Peso en KGI  Etiquetas de columna,Comercial Demo,Sucursal Principal
+lamina 430,producto_demo,PRADA SERVIMARTINEZ S.A.S,2024,782.63,Suma de Peso en KGI  Etiquetas de columna,Comercial Demo,Sucursal Principal
+lamina 430,producto_demo,PRADA SERVIMARTINEZ S.A.S,2025,3159.4699999999993,Suma de Peso en KGI  Etiquetas de columna,Comercial Demo,Sucursal Principal
+lamina 430,producto_demo,DAZA BAUTISTA WILLIAM,2024,1778.21,Suma de Peso en KGI  Etiquetas de columna,Comercial Demo,Sucursal Principal
+lamina 430,producto_demo,DAZA BAUTISTA WILLIAM,2025,1846.82,Suma de Peso en KGI  Etiquetas de columna,Comercial Demo,Sucursal Principal
+lamina 430,producto_demo,BELTRAN VARGAS JORGE ELIECER,2024,3604.5,Suma de Peso en KGI  Etiquetas de columna,Comercial Demo,Sucursal Principal
+lamina 430,producto_demo,FERROCUCUTA SAS,2024,995.55,Suma de Peso en KGI  Etiquetas de columna,Comercial Demo,Sucursal Principal
+lamina 430,producto_demo,FERROCUCUTA SAS,2025,2554.24,Suma de Peso en KGI  Etiquetas de columna,Comercial Demo,Sucursal Principal
+lamina 430,producto_demo,BUITRAGO  HUMBERTO,2024,668.31,Suma de Peso en KGI  Etiquetas de columna,Comercial Demo,Sucursal Principal
+lamina 430,producto_demo,BUITRAGO  HUMBERTO,2025,2684.5999999999995,Suma de Peso en KGI  Etiquetas de columna,Comercial Demo,Sucursal Principal
+lamina 430,producto_demo,AVELLANEDA DIAZ CESAR ALEXIS,2024,1402.88,Suma de Peso en KGI  Etiquetas de columna,Comercial Demo,Sucursal Principal
+lamina 430,producto_demo,AVELLANEDA DIAZ CESAR ALEXIS,2025,1719.2,Suma de Peso en KGI  Etiquetas de columna,Comercial Demo,Sucursal Principal
+lamina 430,producto_demo,FURGORIENTE S.A.,2024,2608.8,Suma de Peso en KGI  Etiquetas de columna,Comercial Demo,Sucursal Principal
+lamina 430,producto_demo,FURGORIENTE S.A.,2025,268.26,Suma de Peso en KGI  Etiquetas de columna,Comercial Demo,Sucursal Principal
+lamina 430,producto_demo,TRESPALACIOS MANOSALVA IVAN DARIO,2025,2444.35,Suma de Peso en KGI  Etiquetas de columna,Comercial Demo,Sucursal Principal
+lamina 430,producto_demo,DAZA YESID ALBERTO,2024,1270.15,Suma de Peso en KGI  Etiquetas de columna,Comercial Demo,Sucursal Principal
+lamina 430,producto_demo,DAZA YESID ALBERTO,2025,1148.64,Suma de Peso en KGI  Etiquetas de columna,Comercial Demo,Sucursal Principal
+lamina 430,producto_demo,BUITRAGO JOSE JESUS,2024,913.1400000000001,Suma de Peso en KGI  Etiquetas de columna,Comercial Demo,Sucursal Principal
+lamina 430,producto_demo,BUITRAGO JOSE JESUS,2025,1441.8000000000002,Suma de Peso en KGI  Etiquetas de columna,Comercial Demo,Sucursal Principal
+lamina 430,producto_demo,DIAZ PINZON MILTON ALEJANDRO,2024,127.9,Suma de Peso en KGI  Etiquetas de columna,Comercial Demo,Sucursal Principal
+lamina 430,producto_demo,DIAZ PINZON MILTON ALEJANDRO,2025,2013.9,Suma de Peso en KGI  Etiquetas de columna,Comercial Demo,Sucursal Principal
+lamina 430,producto_demo,GOMEZ BENITEZ JORGE ELIECER,2024,1139.6,Suma de Peso en KGI  Etiquetas de columna,Comercial Demo,Sucursal Principal
+lamina 430,producto_demo,GOMEZ BENITEZ JORGE ELIECER,2025,926.7900000000001,Suma de Peso en KGI  Etiquetas de columna,Comercial Demo,Sucursal Principal
+lamina 430,producto_demo,DOBLADORA Y COMERCIALIZADORA 243 S.A.S,2024,743.8,Suma de Peso en KGI  Etiquetas de columna,Comercial Demo,Sucursal Principal
+lamina 430,producto_demo,DOBLADORA Y COMERCIALIZADORA 243 S.A.S,2025,926.8499999999999,Suma de Peso en KGI  Etiquetas de columna,Comercial Demo,Sucursal Principal
+lamina 430,producto_demo,PARADA FLOREZ ALBA ALEIDES,2024,986.3800000000001,Suma de Peso en KGI  Etiquetas de columna,Comercial Demo,Sucursal Principal
+lamina 430,producto_demo,PARADA FLOREZ ALBA ALEIDES,2025,501.19,Suma de Peso en KGI  Etiquetas de columna,Comercial Demo,Sucursal Principal
+lamina 430,producto_demo,"SERVICIOS DE INGENIERIA MECANICA,CIVIL Y ELECTRICA S.A.S",2025,1418.48,Suma de Peso en KGI  Etiquetas de columna,Comercial Demo,Sucursal Principal
+lamina 430,producto_demo,HEFEACEROS S.A.S,2025,1338.73,Suma de Peso en KGI  Etiquetas de columna,Comercial Demo,Sucursal Principal
+lamina 430,producto_demo,SERRANO GOMEZ GABRIEL,2024,116.71000000000001,Suma de Peso en KGI  Etiquetas de columna,Comercial Demo,Sucursal Principal
+lamina 430,producto_demo,SERRANO GOMEZ GABRIEL,2025,1139.69,Suma de Peso en KGI  Etiquetas de columna,Comercial Demo,Sucursal Principal
+lamina 430,producto_demo,ROMERO HIGUERA JAIRO,2024,34.33,Suma de Peso en KGI  Etiquetas de columna,Comercial Demo,Sucursal Principal
+lamina 430,producto_demo,ROMERO HIGUERA JAIRO,2025,1130.47,Suma de Peso en KGI  Etiquetas de columna,Comercial Demo,Sucursal Principal
+lamina 430,producto_demo,CARROCERIAS Y FURGONES TRUCKER S.A.S.,2024,915.4000000000001,Suma de Peso en KGI  Etiquetas de columna,Comercial Demo,Sucursal Principal
+lamina 430,producto_demo,A-CERO ARQUITECTURA S.A.S,2025,878.72,Suma de Peso en KGI  Etiquetas de columna,Comercial Demo,Sucursal Principal
+lamina 430,producto_demo,PENAGOS HERMANOS Y COMPANIA S.A.S,2024,178.48999999999998,Suma de Peso en KGI  Etiquetas de columna,Comercial Demo,Sucursal Principal
+lamina 430,producto_demo,PENAGOS HERMANOS Y COMPANIA S.A.S,2025,645.3299999999999,Suma de Peso en KGI  Etiquetas de columna,Comercial Demo,Sucursal Principal
+lamina 430,producto_demo,VARGAS  ISNEL,2024,205.98,Suma de Peso en KGI  Etiquetas de columna,Comercial Demo,Sucursal Principal
+lamina 430,producto_demo,VARGAS  ISNEL,2025,514.91,Suma de Peso en KGI  Etiquetas de columna,Comercial Demo,Sucursal Principal
+lamina 430,producto_demo,BENAVIDEZ  DESIVERIO,2024,205.95999999999998,Suma de Peso en KGI  Etiquetas de columna,Comercial Demo,Sucursal Principal
+lamina 430,producto_demo,BENAVIDEZ  DESIVERIO,2025,471.78,Suma de Peso en KGI  Etiquetas de columna,Comercial Demo,Sucursal Principal
+lamina 430,producto_demo,INDUSTRIAS JAICO Y COLDECI S.A.S,2024,624.79,Suma de Peso en KGI  Etiquetas de columna,Comercial Demo,Sucursal Principal
+lamina 430,producto_demo,HURTADO VILLAMIL EDWIN ORLANDO,2024,617.91,Suma de Peso en KGI  Etiquetas de columna,Comercial Demo,Sucursal Principal
+lamina 430,producto_demo,AVENDANO CASTEBLANCO HECTOR ANDRES,2024,331.82,Suma de Peso en KGI  Etiquetas de columna,Comercial Demo,Sucursal Principal
+lamina 430,producto_demo,AVENDANO CASTEBLANCO HECTOR ANDRES,2025,254.01,Suma de Peso en KGI  Etiquetas de columna,Comercial Demo,Sucursal Principal
+lamina 430,producto_demo,MENDOZA CONTRERAS KATHERINE YELITZA,2024,357.04999999999995,Suma de Peso en KGI  Etiquetas de columna,Comercial Demo,Sucursal Principal
+lamina 430,producto_demo,MENDOZA CONTRERAS KATHERINE YELITZA,2025,206.0,Suma de Peso en KGI  Etiquetas de columna,Comercial Demo,Sucursal Principal
+lamina 430,producto_demo,RODRIGUEZ ORTIZ SANDRA MILENA,2024,501.19000000000005,Suma de Peso en KGI  Etiquetas de columna,Comercial Demo,Sucursal Principal
+lamina 430,producto_demo,DISTRIACEROS DAZA SAS,2025,466.9,Suma de Peso en KGI  Etiquetas de columna,Comercial Demo,Sucursal Principal
+lamina 430,producto_demo,AVILA TORRES JUAN CAMILO,2024,455.6,Suma de Peso en KGI  Etiquetas de columna,Comercial Demo,Sucursal Principal
+lamina 430,producto_demo,ALTAID SAS,2024,164.78,Suma de Peso en KGI  Etiquetas de columna,Comercial Demo,Sucursal Principal
+lamina 430,producto_demo,ALTAID SAS,2025,267.78,Suma de Peso en KGI  Etiquetas de columna,Comercial Demo,Sucursal Principal
+lamina 430,producto_demo,DAMIAN DUARTE ROBINSON ANDRES,2024,151.03,Suma de Peso en KGI  Etiquetas de columna,Comercial Demo,Sucursal Principal
+lamina 430,producto_demo,DAMIAN DUARTE ROBINSON ANDRES,2025,274.62,Suma de Peso en KGI  Etiquetas de columna,Comercial Demo,Sucursal Principal
+lamina 430,producto_demo,DUENES VALERO JUAN CARLOS,2025,411.9,Suma de Peso en KGI  Etiquetas de columna,Comercial Demo,Sucursal Principal
+lamina 430,producto_demo,HERNANDEZ  ARTURO,2024,54.92,Suma de Peso en KGI  Etiquetas de columna,Comercial Demo,Sucursal Principal
+lamina 430,producto_demo,HERNANDEZ  ARTURO,2025,322.68,Suma de Peso en KGI  Etiquetas de columna,Comercial Demo,Sucursal Principal
+lamina 430,producto_demo,CRUZ GOMEZ GUILLERMO,2025,366.2,Suma de Peso en KGI  Etiquetas de columna,Comercial Demo,Sucursal Principal
+lamina 430,producto_demo,CAMPOVET DISTRIBUCIONES SAS,2025,274.61,Suma de Peso en KGI  Etiquetas de columna,Comercial Demo,Sucursal Principal
+lamina 430,producto_demo,ESTUPINAN MESA JORGE EDGAR,2025,254.02000000000004,Suma de Peso en KGI  Etiquetas de columna,Comercial Demo,Sucursal Principal
+lamina 430,producto_demo,GUERRERO SUPELANO RENSON ARLEY,2024,192.22,Suma de Peso en KGI  Etiquetas de columna,Comercial Demo,Sucursal Principal
+lamina 430,producto_demo,CARRILLO PIRACOCA EDUIN FABIAN,2025,185.4,Suma de Peso en KGI  Etiquetas de columna,Comercial Demo,Sucursal Principal
+lamina 430,producto_demo,PRINCIPAL DE ALUMINIOS Y CONTRUCCIONES LEGOM SAS,2024,103.0,Suma de Peso en KGI  Etiquetas de columna,Comercial Demo,Sucursal Principal
+lamina 430,producto_demo,PRINCIPAL DE ALUMINIOS Y CONTRUCCIONES LEGOM SAS,2025,82.4,Suma de Peso en KGI  Etiquetas de columna,Comercial Demo,Sucursal Principal
+lamina 430,producto_demo,RODRIGUEZ DUARTE GERMAN,2024,180.82,Suma de Peso en KGI  Etiquetas de columna,Comercial Demo,Sucursal Principal
+lamina 430,producto_demo,NIETO  APOLINAR,2024,171.65,Suma de Peso en KGI  Etiquetas de columna,Comercial Demo,Sucursal Principal
+lamina 430,producto_demo,DIAZ CASTRO JOSE YOBANI,2024,144.2,Suma de Peso en KGI  Etiquetas de columna,Comercial Demo,Sucursal Principal
+lamina 430,producto_demo,LOAIZA DIAZ ELMINSON,2024,82.4,Suma de Peso en KGI  Etiquetas de columna,Comercial Demo,Sucursal Principal
+lamina 430,producto_demo,LOAIZA DIAZ ELMINSON,2025,61.8,Suma de Peso en KGI  Etiquetas de columna,Comercial Demo,Sucursal Principal
+lamina 430,producto_demo,GOMEZ LARA DIEGO FRANCISCO,2025,123.6,Suma de Peso en KGI  Etiquetas de columna,Comercial Demo,Sucursal Principal
+lamina 430,producto_demo,CALDERAS  INDUSTRIA TERMICA COLOMBIANA P&V SAS,2025,82.39,Suma de Peso en KGI  Etiquetas de columna,Comercial Demo,Sucursal Principal
+lamina 430,producto_demo,EDS ESTELAR SAS,2024,82.38,Suma de Peso en KGI  Etiquetas de columna,Comercial Demo,Sucursal Principal
+lamina 430,producto_demo,GOMEZ VERDUGO YULY,2024,68.66,Suma de Peso en KGI  Etiquetas de columna,Comercial Demo,Sucursal Principal
+lamina 430,producto_demo,HERNANDEZ  FERMIN,2025,54.92,Suma de Peso en KGI  Etiquetas de columna,Comercial Demo,Sucursal Principal
+lamina 430,producto_demo,OTALORA MESA DANIEL ALFONSO,2024,54.92,Suma de Peso en KGI  Etiquetas de columna,Comercial Demo,Sucursal Principal
+lamina 430,producto_demo,RONCANCIO DUARTE JUAN SEBASTIAN,2025,54.92,Suma de Peso en KGI  Etiquetas de columna,Comercial Demo,Sucursal Principal
+lamina 430,producto_demo,AVICOLA BARBOSA SAS,2025,27.46,Suma de Peso en KGI  Etiquetas de columna,Comercial Demo,Sucursal Principal
+lamina 430,producto_demo,SIERRA RODRIGUEZ ALVARO,2025,16.02,Suma de Peso en KGI  Etiquetas de columna,Comercial Demo,Sucursal Principal
+lamina 430,producto_demo,TOVAR QUIROZ CRISTOBAL,2025,16.02,Suma de Peso en KGI  Etiquetas de columna,Comercial Demo,Sucursal Principal
