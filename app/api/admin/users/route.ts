@@ -6,7 +6,7 @@ export const runtime = "nodejs";
 
 export async function GET(req: NextRequest) {
   try {
-    const profile = await requireProfile(req, ["Administrador"]);
+    const profile = await requireProfile(req, ["Administrador"], { allowInactiveCompany: true });
     const db = supabaseAdmin();
     const [{ data: usuarios, error }, { data: roles }, { data: sucursales }, { data: zonas }] = await Promise.all([
       db.from("usuarios").select("id,nombre,usuario,correo,activo,rol_id,sucursal_id,auth_user_id,roles(nombre),comerciales(id,zona_id,sucursal_id,codigo)").eq("empresa_id", profile.empresa_id).order("nombre"),
@@ -23,7 +23,7 @@ export async function GET(req: NextRequest) {
 
 export async function POST(req: NextRequest) {
   try {
-    const profile = await requireProfile(req, ["Administrador"]);
+    const profile = await requireProfile(req, ["Administrador"], { allowInactiveCompany: true });
     const db = supabaseAdmin();
     const body = await req.json();
     const email = String(body.correo || "").trim().toLowerCase();
@@ -69,7 +69,7 @@ export async function POST(req: NextRequest) {
 
 export async function PATCH(req: NextRequest) {
   try {
-    const profile = await requireProfile(req, ["Administrador"]);
+    const profile = await requireProfile(req, ["Administrador"], { allowInactiveCompany: true });
     const db = supabaseAdmin();
     const body = await req.json();
     const { data: user, error } = await db.from("usuarios").update({ activo: !!body.activo, actualizado_en: new Date().toISOString() }).eq("id", body.id).eq("empresa_id", profile.empresa_id).select("auth_user_id,nombre").single();

@@ -1,24 +1,6 @@
-import { cartera, clientesPareto, comerciales, inventario, money, productosPareto, ventasPerdidas } from '@/lib/demo-data';
-import { calculateGoalStatus } from '@/lib/business-days';
+// Motor heredado deshabilitado.
+// La IA Enterprise obtiene el contexto real desde buildStrictRoleContext y Supabase.
 export type AnalysisUser={nombre?:string;rol?:string;comercial?:string};
-const sum=(a:any[],f:(x:any)=>number)=>a.reduce((s,x)=>s+f(x),0);
 export function buildEnterpriseAnalysis(question:string,user:AnalysisUser){
- const role=user.rol||'Gerencia Comercial'; const now=new Date();
- const totalSales=sum(comerciales,c=>c.venta), totalGoal=sum(comerciales,c=>c.meta);
- const gs=calculateGoalStatus(totalSales,totalGoal,'Equipo comercial');
- if(role==='Comercial'){
-  const c=comerciales.find(x=>x.nombre===user.comercial||x.nombre===user.nombre)||comerciales[0]; const st=calculateGoalStatus(c.venta,c.meta,c.nombre);
-  const falling=clientesPareto.filter(x=>(x.comercial===c.nombre||c.nombre==='Comercial Demo')&&x.variacion<0);
-  return {role,date:now.toISOString(),question,indicators:{fecha_actual:st.todayLabel,dias_habiles_restantes:st.businessDaysRemaining,meta:c.meta,ventas:c.venta,cumplimiento_real:st.actualProgress,cumplimiento_esperado:st.expectedProgress,faltante_meta:Math.max(c.meta-c.venta,0),faltante_meta_formato:money(Math.max(c.meta-c.venta,0))},findings:[`${c.nombre} lleva ${st.actualProgress.toFixed(1)}% frente a ${st.expectedProgress.toFixed(1)}% esperado.`,`Quedan ${st.businessDaysRemaining} días hábiles.`,`Faltan ${money(Math.max(c.meta-c.venta,0))} para la meta.`,falling.length?`Clientes con caída: ${falling.map(x=>x.nombre).join(', ')}.`:'No hay clientes con caída en la muestra.'],priorities:['Contactar clientes con caída y alto valor.','Impulsar productos Pareto con inventario.','Gestionar cartera antes de nuevas ventas.'],risks:[],opportunities:productosPareto.slice(0,3).map(p=>`${p.nombre}: categoría ${p.abc}.`),decisionSuggestion:st.color==='green'?'Mantener ritmo y buscar mayor margen.':st.color==='yellow'?'Aumentar contactos y recuperar inactivos.':'Solicitar acompañamiento y priorizar cierres rápidos.'};
- }
- if(role==='Compras'){
-  const crit=inventario.filter(i=>i.estado!=='DISPONIBLE'), lost=ventasPerdidas.filter(v=>v.motivo==='Agotado');
-  return {role,date:now.toISOString(),question,indicators:{referencias_criticas:crit.length,perdida_por_agotados:sum(lost,v=>v.valor),compra_sugerida_total:sum(crit,i=>Math.max(i.puntoPedido+i.stockSeguridad-i.stock,0))},findings:crit.map(i=>`${i.producto}: stock ${i.stock}, punto ${i.puntoPedido}, lead time ${i.leadTimeDias} días, compra sugerida ${Math.max(i.puntoPedido+i.stockSeguridad-i.stock,0)}.`),priorities:['Comprar primero referencias con ventas perdidas.','Actualizar lead time real.','Validar stock de seguridad.'],risks:lost.map(v=>`${v.producto}: pérdida ${money(v.valor)}.`),opportunities:productosPareto.slice(0,3).map(p=>`Proteger ${p.nombre}.`),decisionSuggestion:'Emitir reposición por impacto económico y riesgo de agotado.'};
- }
- if(role==='Cartera'){
-  const crit=cartera.filter(c=>c.dias>=60);
-  return {role,date:now.toISOString(),question,indicators:{cartera_total:sum(cartera,c=>c.saldo),cartera_critica:sum(crit,c=>c.saldo),clientes_criticos:crit.length},findings:cartera.map(c=>`${c.cliente}: ${money(c.saldo)}, ${c.dias} días, responsable ${c.comercial}.`),priorities:['Gestionar primero >60 días.','Avisar al comercial responsable.','Registrar promesa con fecha.'],risks:crit.map(c=>`${c.cliente}: ${c.riesgo}.`),opportunities:['Convertir compromisos en promesas medibles.'],decisionSuggestion:'Bloquear nuevas ventas cuando la política lo exija.'};
- }
- const sellers=comerciales.map(c=>({...c,status:calculateGoalStatus(c.venta,c.meta,c.nombre)})); const low=[...sellers].sort((a,b)=>a.status.deviation-b.status.deviation)[0], best=[...sellers].sort((a,b)=>b.status.deviation-a.status.deviation)[0];
- return {role,date:now.toISOString(),question,indicators:{fecha_actual:gs.todayLabel,dias_habiles_restantes:gs.businessDaysRemaining,meta_general:totalGoal,ventas_generales:totalSales,cumplimiento_real:gs.actualProgress,cumplimiento_esperado:gs.expectedProgress,faltante_meta:Math.max(totalGoal-totalSales,0),faltante_meta_formato:money(Math.max(totalGoal-totalSales,0)),ventas_perdidas:sum(ventasPerdidas,v=>v.valor),cartera_critica:sum(cartera.filter(c=>c.dias>=60),c=>c.saldo),referencias_criticas:inventario.filter(i=>i.estado!=='DISPONIBLE').length},findings:[`La empresa lleva ${gs.actualProgress.toFixed(1)}% frente a ${gs.expectedProgress.toFixed(1)}% esperado.`,`Quedan ${gs.businessDaysRemaining} días hábiles y ${money(Math.max(totalGoal-totalSales,0))} para la meta.`,`${low.nombre} requiere más acompañamiento.`,`${best.nombre} presenta el mejor ritmo.`],priorities:[`Acompañar hoy a ${low.nombre}.`,'Recuperar clientes con caída.','Resolver agotados con pérdida.'],risks:[`Cartera crítica: ${money(sum(cartera.filter(c=>c.dias>=60),c=>c.saldo))}.`,`Ventas perdidas: ${money(sum(ventasPerdidas,v=>v.valor))}.`],opportunities:[`Replicar prácticas de ${best.nombre}.`,`Impulsar ${productosPareto[0]?.nombre||'producto Pareto'}.`],decisionSuggestion:'Concentrar acompañamiento, recuperación y reposición en las tres brechas de mayor impacto.'};
+  return {role:user.rol||"Usuario",date:new Date().toISOString(),question,indicators:{},findings:[],priorities:[],risks:[],opportunities:[],decisionSuggestion:"Consulte los datos reales de la empresa activa."};
 }

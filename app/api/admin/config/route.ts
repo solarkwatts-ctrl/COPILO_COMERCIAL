@@ -9,7 +9,7 @@ type Branch = { id?: string; nombre: string; ciudad?: string; zona_id?: string |
 
 export async function GET(req: NextRequest) {
   try {
-    const profile = await requireProfile(req, ["Administrador"]);
+    const profile = await requireProfile(req, ["Administrador"], { allowInactiveCompany: true });
     const db = supabaseAdmin();
     const [{ data: empresa, error: e1 }, { data: zonas, error: e2 }, { data: sucursales, error: e3 }, { data: roles, error: e4 }, { data: demo, error: e5 }] = await Promise.all([
       db.from("empresa").select("*").eq("id", profile.empresa_id).single(),
@@ -28,7 +28,7 @@ export async function GET(req: NextRequest) {
 
 export async function POST(req: NextRequest) {
   try {
-    const profile = await requireProfile(req, ["Administrador"]);
+    const profile = await requireProfile(req, ["Administrador"], { allowInactiveCompany: true });
     const db = supabaseAdmin();
     const body = await req.json();
     const empresa = body.empresa || {};

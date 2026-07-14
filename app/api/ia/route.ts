@@ -6,6 +6,7 @@ import { askGemini } from "@/lib/ai/gemini";
 import { supabaseAdmin } from "@/lib/supabase/server";
 
 export const runtime = "nodejs";
+export const dynamic = "force-dynamic";
 export const maxDuration = 60;
 
 function fallback(context: any, question: string) {

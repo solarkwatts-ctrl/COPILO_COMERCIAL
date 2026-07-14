@@ -6,9 +6,9 @@ export const runtime = "nodejs";
 
 export async function GET(req: NextRequest) {
   try {
-    const profile = await requireProfile(req, ["Administrador"]);
+    const profile = await requireProfile(req, ["Administrador"], { allowInactiveCompany: true });
     const db = supabaseAdmin();
-    let query = db.from("empresa").select("id,nombre,nombre_comercial,nit,tipo_entorno,demo_activo,activo,ciudad,sector,logo_url,created_at,actualizado_en").order("nombre");
+    let query = db.from("empresa").select("id,nombre,nombre_comercial,nit,tipo_entorno,demo_activo,activo,ciudad,sector,logo_url,estado_licencia,plan,licencia_vencimiento,created_at,actualizado_en").order("nombre");
     if (!profile.es_superadmin) {
       const { data: links } = await db.from("usuarios_empresas").select("empresa_id").eq("usuario_id", profile.id).eq("activo", true);
       const ids = Array.from(new Set([profile.empresa_id, ...(links || []).map(x => x.empresa_id)]));
@@ -24,7 +24,7 @@ export async function GET(req: NextRequest) {
 
 export async function POST(req: NextRequest) {
   try {
-    const profile = await requireProfile(req, ["Administrador"]);
+    const profile = await requireProfile(req, ["Administrador"], { allowInactiveCompany: true });
     if (!profile.es_superadmin) return NextResponse.json({ error: "Solo el Superadministrador puede crear empresas." }, { status: 403 });
     const db = supabaseAdmin();
     const body = await req.json();
@@ -56,12 +56,25 @@ export async function POST(req: NextRequest) {
 
 export async function PATCH(req: NextRequest) {
   try {
-    const profile = await requireProfile(req, ["Administrador"]);
+    const profile = await requireProfile(req, ["Administrador"], { allowInactiveCompany: true });
     if (!profile.es_superadmin) return NextResponse.json({ error: "Solo el Superadministrador puede cambiar el estado global." }, { status: 403 });
     const db = supabaseAdmin();
     const body = await req.json();
-    const { data, error } = await db.from("empresa").update({ activo: !!body.activo, actualizado_en: new Date().toISOString() }).eq("id", body.id).select("id,nombre,activo").single();
+    const patch: any = { actualizado_en: new Date().toISOString() };
+    if (typeof body.activo === "boolean") patch.activo = body.activo;
+    if (body.estado_licencia) patch.estado_licencia = body.estado_licencia;
+    if (body.plan) patch.plan = body.plan;
+    if (body.licencia_vencimiento !== undefined) patch.licencia_vencimiento = body.licencia_vencimiento || null;
+    const { data, error } = await db.from("empresa").update(patch).eq("id", body.id).select("id,nombre,activo,estado_licencia,plan,licencia_vencimiento").single();
     if (error) throw error;
+    await db.from("licencias").upsert({
+      empresa_id: body.id,
+      plan: data.plan || "enterprise",
+      estado: data.estado_licencia || (data.activo ? "activa" : "suspendida"),
+      fecha_vencimiento: data.licencia_vencimiento,
+      actualizado_en: new Date().toISOString()
+    }, { onConflict: "empresa_id" });
+    await db.from("auditoria").insert({empresa_id:body.id,usuario_id:profile.id,usuario_nombre:profile.nombre,rol:profile.rol,modulo:"Empresas",accion:data.activo?"Activar empresa":"Suspender empresa",detalle:`Licencia: ${data.estado_licencia || "sin estado"}`});
     return NextResponse.json({ ok: true, empresa: data });
   } catch (e: any) {
     return NextResponse.json({ error: e?.message || "No fue posible actualizar la empresa." }, { status: 500 });

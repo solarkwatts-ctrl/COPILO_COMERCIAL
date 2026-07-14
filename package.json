@@ -1,6 +1,6 @@
 {
   "name": "copiloto-comercial-ia",
-  "version": "14.0.0",
+  "version": "15.0.0",
   "private": true,
   "engines": {
     "node": "24.x"
@@ -18,7 +18,8 @@
     "papaparse": "5.4.1",
     "react": "18.3.1",
     "react-dom": "18.3.1",
-    "recharts": "2.13.0"
+    "recharts": "2.13.0",
+    "xlsx": "0.18.5"
   },
   "devDependencies": {
     "@types/node": "20.17.6",
